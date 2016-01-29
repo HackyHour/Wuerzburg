@@ -1,0 +1,14 @@
+## Smallest common multiple
+## By Dominik Kiser
+## Hackyhour Würzburg
+
+a = (10:10000) #Field (2520 first one)
+b <- c() # initializes the list b (c is not a list but a function to create lists)
+for(i in 1:length(a)) # will go through the list of a
+{
+  b[i] <- (a[i]%%5+a[i]%%7+a[i]%%8+a[i]%%9) # will make a simple division and compare if the quotient is a natural number
+  }
+d <- which(b==0)  #compares which elements of b equal 0 and returns the index number to d
+a[d]    #Displays result in shell
+
+rm(list = ls()) # Removes all variables from working memory
