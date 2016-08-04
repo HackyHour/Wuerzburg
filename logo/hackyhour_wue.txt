@@ -1,0 +1,5 @@
+This logo is derived from the HackyHour Auckland Logo.
+The central icon is in the public domain https://thenounproject.com/search/?q=hackathon&i=6324
+The colors are the corporate design colors from the University of Würzburg.
+The "Wü" uses the Jellee font available under SIL Open Font License https://fontlibrary.org/en/font/jellee-typeface
+Special thanks to Cam (https://github.com/cameronmclean) from HackyHour Auckland for the kind permission to reuse the logo.
