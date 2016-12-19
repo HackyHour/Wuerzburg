@@ -1,0 +1,8 @@
+title: HackyHour Würzburg
+description: Code - Tools - Science - Help - Social
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
