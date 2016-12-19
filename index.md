@@ -1,11 +1,14 @@
 # About
 Come to talk about science in a social environment.
 If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
+
 # When and Where
 Every last Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094).
 You can come without registration but feel free to join the [Gitter-Chat](https://gitter.im/HackyHour/Wuerzburg) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 9pm.
+
 ### Attention! The HackyHour in November will be skipped. The HackyHour in December is moved to December 22 and there will be mulled wine.
+
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -30,10 +33,11 @@ Online discussions for these topics are accessible via the following links.
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
 If you are interested in the HackyHour you should also check out [WUBSyB](http://wubsyb.github.io/)
+
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
 It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a> 
 and the open <a href="https://fontlibrary.org/en/font/jellee-typeface">Jelle</a> font (SIL Open Font License).
-![alt text](logo/hackyhour_wue.svg "Logo HackyHour")
-
 Colors are the corporate design colors from the University of Würzburg.
+
+![alt text](logo/hackyhour_wue.svg "Logo HackyHour")
