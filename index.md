@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2016-12-22 | Join the discussion | [#26](https://github.com/HackyHour/Wuerzburg/issues/26) |
+| 2017-01-26 | Join the discussion | [#27](https://github.com/HackyHour/Wuerzburg/issues/27) |
+| 2016-12-22 | Penetration testing (metasploitable) | [#26](https://github.com/HackyHour/Wuerzburg/issues/26) |
 | 2016-10-27 | Kaggle (Titanic) | [#24](https://github.com/HackyHour/Wuerzburg/issues/24) |
 | 2016-09-30 | Julia, Regex Golf | [#23](https://github.com/HackyHour/Wuerzburg/issues/23) |
 | 2016-07-29 | Nextcloud on Raspberry Pi, Logo | [#22](https://github.com/HackyHour/Wuerzburg/issues/22) |
