@@ -14,7 +14,7 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-03-23 | Join the discussion | [#28](https://github.com/HackyHour/Wuerzburg/issues/29) |
+| 2017-03-23 | Join the discussion | [#29](https://github.com/HackyHour/Wuerzburg/issues/29) |
 | 2017-02-23 | Docker, Random Forest Cross Validation | [#28](https://github.com/HackyHour/Wuerzburg/issues/28) |
 | 2017-01-26 | Random Forest, Bioinformatics Contest 2017 | [#27](https://github.com/HackyHour/Wuerzburg/issues/27) |
 | 2016-12-22 | Penetration testing (metasploitable) | [#26](https://github.com/HackyHour/Wuerzburg/issues/26) |
