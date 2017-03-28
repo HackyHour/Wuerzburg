@@ -4,7 +4,7 @@ If you want to know how computational tools and code can improve your science or
 
 # When and Where
 Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094).
-You can come without registration but feel free to join the [Gitter-Chat](https://gitter.im/HackyHour/Wuerzburg) if you have any questions beforehand.
+You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
 # Topics
