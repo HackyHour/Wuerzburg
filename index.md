@@ -9,7 +9,7 @@ Usually we order pizza and sit together until roughly 8pm.
 
 ### Attention
 Next HackyHour would be the 25th of May which is a holiday.
-So please add your vote [here](Wednesday 24th of May) for an alternative date this month.
+So please add your vote [here](https://github.com/HackyHour/Wuerzburg/issues/32) for an alternative date this month.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
