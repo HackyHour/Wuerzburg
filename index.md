@@ -14,7 +14,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-04-27 | Join the discussion | [#31](https://github.com/HackyHour/Wuerzburg/issues/31) |
+| 2017-05-25 | Join the discussion | [#32](https://github.com/HackyHour/Wuerzburg/issues/32) |
+| 2017-04-27 | Monte Carlo Simulations | [#31](https://github.com/HackyHour/Wuerzburg/issues/31) |
 | 2017-03-23 | Website re-design ideas, React | [#29](https://github.com/HackyHour/Wuerzburg/issues/29) |
 | 2017-02-23 | Docker, Random Forest Cross Validation | [#28](https://github.com/HackyHour/Wuerzburg/issues/28) |
 | 2017-01-26 | Random Forest, Bioinformatics Contest 2017 | [#27](https://github.com/HackyHour/Wuerzburg/issues/27) |
