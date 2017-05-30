@@ -7,8 +7,6 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! Due to a holiday the next HackyHour is on Wednesday, 24th of May.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -16,7 +14,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-05-24 | Join the discussion | [#32](https://github.com/HackyHour/Wuerzburg/issues/32) |
+| 2017-06-22 | Join the discussion | [#33](https://github.com/HackyHour/Wuerzburg/issues/33) |
+| 2017-05-24 | Discussions, IT infrastructure | [#32](https://github.com/HackyHour/Wuerzburg/issues/32) |
 | 2017-04-27 | Monte Carlo Simulations | [#31](https://github.com/HackyHour/Wuerzburg/issues/31) |
 | 2017-03-23 | Website re-design ideas, React | [#29](https://github.com/HackyHour/Wuerzburg/issues/29) |
 | 2017-02-23 | Docker, Random Forest Cross Validation | [#28](https://github.com/HackyHour/Wuerzburg/issues/28) |
