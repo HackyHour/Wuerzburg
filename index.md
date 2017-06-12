@@ -7,6 +7,8 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
+### Attention: this is the first WUBSyB/HackyHour cross-over. So we will have a [WUBSyB](http://wubsyb.github.io/) session about "deep work" from 5pm to 6pm and then continue with a regular HackyHour :)
+
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
