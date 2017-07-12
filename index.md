@@ -16,7 +16,7 @@ Online discussions for these topics are accessible via the following links.
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
 | 2017-07-27 | Join the discussion | [#34](https://github.com/HackyHour/Wuerzburg/issues/34) |
-| 2017-06-22 | Gitlab+Gitlab CI | [#33](https://github.com/HackyHour/Wuerzburg/issues/33) |
+| 2017-06-22 | Ordination, GitLab + GitLab CI | [#33](https://github.com/HackyHour/Wuerzburg/issues/33) |
 | 2017-05-24 | Discussions, IT infrastructure | [#32](https://github.com/HackyHour/Wuerzburg/issues/32) |
 | 2017-04-27 | Monte Carlo Simulations | [#31](https://github.com/HackyHour/Wuerzburg/issues/31) |
 | 2017-03-23 | Website re-design ideas, React | [#29](https://github.com/HackyHour/Wuerzburg/issues/29) |
