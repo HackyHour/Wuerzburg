@@ -3,8 +3,8 @@ Come to talk about science in a social environment.
 If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
 
 # When and Where
-So far every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094).
-Since June, 22nd 2017 we started the WUBSyB/HackyHour cross-over. Therefore, we start at 5 pm with a [WUBSyB](http://wubsyb.github.io/) session until 6pm and then continue with the HackyHour. 
+Every fourth Thursday of the month at 6 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094).
+Since June 2017 we started the WUBSyB/HackyHour cross-over. Therefore, we start at 5 pm with a [WUBSyB](http://wubsyb.github.io/) session until 6pm and then continue with the HackyHour. 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
@@ -15,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-07-27 | Join the discussion | [#34](https://github.com/HackyHour/Wuerzburg/issues/34) |
+| 2017-08-24 | Join the discussion | [pad](https://hackyhour.piratenpad.de/Wuerzburg20), [issue](https://github.com/HackyHour/Wuerzburg/issues/36) |
+| 2017-07-27 | GPG, Key Signing Party | [#34](https://github.com/HackyHour/Wuerzburg/issues/34) |
 | 2017-06-22 | Ordination, GitLab + GitLab CI | [#33](https://github.com/HackyHour/Wuerzburg/issues/33) |
 | 2017-05-24 | Discussions, IT infrastructure | [#32](https://github.com/HackyHour/Wuerzburg/issues/32) |
 | 2017-04-27 | Monte Carlo Simulations | [#31](https://github.com/HackyHour/Wuerzburg/issues/31) |
