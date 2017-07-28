@@ -16,26 +16,26 @@ Online discussions for these topics are accessible via the following links.
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
 | 2017-08-24 | Join the discussion | [pad](https://hackyhour.piratenpad.de/Wuerzburg20), [issue](https://github.com/HackyHour/Wuerzburg/issues/36) |
-| 2017-07-27 | GPG, Key Signing Party | [#34](https://github.com/HackyHour/Wuerzburg/issues/34) |
-| 2017-06-22 | Ordination, GitLab + GitLab CI | [#33](https://github.com/HackyHour/Wuerzburg/issues/33) |
-| 2017-05-24 | Discussions, IT infrastructure | [#32](https://github.com/HackyHour/Wuerzburg/issues/32) |
-| 2017-04-27 | Monte Carlo Simulations | [#31](https://github.com/HackyHour/Wuerzburg/issues/31) |
-| 2017-03-23 | Website re-design ideas, React | [#29](https://github.com/HackyHour/Wuerzburg/issues/29) |
-| 2017-02-23 | Docker, Random Forest Cross Validation | [#28](https://github.com/HackyHour/Wuerzburg/issues/28) |
-| 2017-01-26 | Random Forest, Bioinformatics Contest 2017 | [#27](https://github.com/HackyHour/Wuerzburg/issues/27) |
-| 2016-12-22 | Penetration testing (metasploitable) | [#26](https://github.com/HackyHour/Wuerzburg/issues/26) |
-| 2016-10-27 | Kaggle (Titanic) | [#24](https://github.com/HackyHour/Wuerzburg/issues/24) |
-| 2016-09-30 | Julia, Regex Golf | [#23](https://github.com/HackyHour/Wuerzburg/issues/23) |
-| 2016-07-29 | Nextcloud on Raspberry Pi, Logo | [#22](https://github.com/HackyHour/Wuerzburg/issues/22) |
-| 2016-06-30 | Publishing tools: Latex vs Word, Illustrator vs Inkscape, Endnote vs Bibtex/Mendeley/... | [#20](https://github.com/HackyHour/Wuerzburg/issues/20) |
-| 2016-06-02 | PID-controller, more codingames | [#18](https://github.com/HackyHour/Wuerzburg/issues/18) |
-| 2016-05-04 | Coding Dojo with codingame.com | [#16](https://github.com/HackyHour/Wuerzburg/issues/16) |
-| 2016-03-30 | Internet security, https, encryption, pgp, P/NP problems | [#15](https://github.com/HackyHour/Wuerzburg/issues/15) |
-| 2016-02-24 | Webcam on Raspberry Pi, zfs and raids | [#14](https://github.com/HackyHour/Wuerzburg/issues/14) |
-| 2016-01-27 | Raspberry Pi, OwnCloud, Perl vs R | [#12](https://github.com/HackyHour/Wuerzburg/issues/12) |
-| 2015-11-25 | Misc | [#11](https://github.com/HackyHour/Wuerzburg/issues/11) |
-| 2015-10-28 | Website, GitHub | [#10](https://github.com/HackyHour/Wuerzburg/issues/10) |
-| 2015-09-22 | Organizational | [#9](https://github.com/HackyHour/Wuerzburg/issues/9) |
+| 2017-07-27 | GPG, Key Signing Party | [pad](https://hackyhour.piratenpad.de/Wuerzburg19), [issue](https://github.com/HackyHour/Wuerzburg/issues/34) |
+| 2017-06-22 | Ordination, GitLab + GitLab CI | [pad](https://hackyhour.piratenpad.de/Wuerzburg18), [issue](https://github.com/HackyHour/Wuerzburg/issues/33) |
+| 2017-05-24 | Discussions, IT infrastructure | [pad](https://hackyhour.piratenpad.de/Wuerzburg17), [issue](https://github.com/HackyHour/Wuerzburg/issues/32) |
+| 2017-04-27 | Monte Carlo Simulations | [pad](https://hackyhour.piratenpad.de/Wuerzburg16), [issue](https://github.com/HackyHour/Wuerzburg/issues/31) |
+| 2017-03-23 | Website re-design ideas, React | [pad](https://hackyhour.piratenpad.de/Wuerzburg15), [issue](https://github.com/HackyHour/Wuerzburg/issues/29) |
+| 2017-02-23 | Docker, Random Forest Cross Validation | [pad](https://hackyhour.piratenpad.de/Wuerzburg14), [issue](https://github.com/HackyHour/Wuerzburg/issues/28) |
+| 2017-01-26 | Random Forest, Bioinformatics Contest 2017 | [pad](https://hackyhour.piratenpad.de/Wuerzburg13), [issue](https://github.com/HackyHour/Wuerzburg/issues/27) |
+| 2016-12-22 | Penetration testing (metasploitable) | [pad](https://hackyhour.piratenpad.de/Wuerzburg12), [issue](https://github.com/HackyHour/Wuerzburg/issues/26) |
+| 2016-10-27 | Kaggle (Titanic) | [pad](https://hackyhour.piratenpad.de/Wuerzburg11), [issue](https://github.com/HackyHour/Wuerzburg/issues/24) |
+| 2016-09-30 | Julia, Regex Golf | [pad](https://hackyhour.piratenpad.de/Wuerzburg10), [issue](https://github.com/HackyHour/Wuerzburg/issues/23) |
+| 2016-07-29 | Nextcloud on Raspberry Pi, Logo | [pad](https://hackyhour.piratenpad.de/Wuerzburg09), [issue](https://github.com/HackyHour/Wuerzburg/issues/22) |
+| 2016-06-30 | Publishing tools: Latex vs Word, Illustrator vs Inkscape, Endnote vs Bibtex/Mendeley/... | [issue](https://github.com/HackyHour/Wuerzburg/issues/20) |
+| 2016-06-02 | PID-controller, more codingames | [issue](https://github.com/HackyHour/Wuerzburg/issues/18) |
+| 2016-05-04 | Coding Dojo with codingame.com | [issue](https://github.com/HackyHour/Wuerzburg/issues/16) |
+| 2016-03-30 | Internet security, https, encryption, pgp, P/NP problems | [issue](https://github.com/HackyHour/Wuerzburg/issues/15) |
+| 2016-02-24 | Webcam on Raspberry Pi, zfs and raids | [issue](https://github.com/HackyHour/Wuerzburg/issues/14) |
+| 2016-01-27 | Raspberry Pi, OwnCloud, Perl vs R | [issue](https://github.com/HackyHour/Wuerzburg/issues/12) |
+| 2015-11-25 | Misc | [issue](https://github.com/HackyHour/Wuerzburg/issues/11) |
+| 2015-10-28 | Website, GitHub | [issue](https://github.com/HackyHour/Wuerzburg/issues/10) |
+| 2015-09-22 | Organizational | [issue](https://github.com/HackyHour/Wuerzburg/issues/9) |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
