@@ -15,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-09-28 | Join the discussion | [pad](https://hackmd.io/KYQwJgZgLAbCCcBaYYCMB2RUDMEAci8ADHiIgMYBM6ArLOjFGEWEA===#), [issue](https://github.com/HackyHour/Wuerzburg/issues/37) |
+| 2017-10-26 | Join the discussion | [pad](https://hackmd.io/GwdgJgTARgxsAcBaAZgUwIwkQFgAwRkQE5gYlQx4BmdeKK1eZIA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/38) |
+| 2017-09-28 | Captcha Breaker, Nethack | [pad](https://hackmd.io/KYQwJgZgLAbCCcBaYYCMB2RUDMEAci8ADHiIgMYBM6ArLOjFGEWEA===#), [issue](https://github.com/HackyHour/Wuerzburg/issues/37) |
 | 2017-08-24 | TensorFlow Primer | [pad](https://hackyhour.piratenpad.de/Wuerzburg20), [issue](https://github.com/HackyHour/Wuerzburg/issues/36) |
 | 2017-07-27 | GPG, Key Signing Party | [pad](https://hackyhour.piratenpad.de/Wuerzburg19), [issue](https://github.com/HackyHour/Wuerzburg/issues/34) |
 | 2017-06-22 | Ordination, GitLab + GitLab CI | [pad](https://hackyhour.piratenpad.de/Wuerzburg18), [issue](https://github.com/HackyHour/Wuerzburg/issues/33) |
