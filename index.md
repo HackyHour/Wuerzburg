@@ -8,6 +8,8 @@ Since June 2017 we started the WUBSyB/HackyHour cross-over. Therefore, we start 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
+## Attention: Winter Break! There is no HackyHour in December 2017. We continue as usual on the 25th of January 2018
+
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -15,6 +17,7 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
+| 2018-01-25 | Join the discussion | [pad](https://hackmd.io/GwBgzArAZgRgnDAtAYwBwEYqICwCYOICGuIAJoruiMcHLqahCEA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/42) |
 | 2017-11-23 | Bioinformatics for malaria, helping a student group with [igem project](http://igem.org/Main_Page) | [pad](https://hackmd.io/KYDmFZgE2YFpgEYDsBOOAWARq5cQBmAhgXAAwBsBATEWeFmSKsEA#), [issue](https://github.com/HackyHour/Wuerzburg/issues/39) |
 | 2017-10-26 | Crop Challenge, NodeJS + Express + MongoDB: [Chicken Clicker](https://github.com/sonjahohlfeld/chickenClickerTriggerPicker) | [pad](https://hackmd.io/GwdgJgTARgxsAcBaAZgUwIwkQFgAwRkQE5gYlQx4BmdeKK1eZIA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/38) |
 | 2017-09-28 | Captcha Breaker, Nethack | [pad](https://hackmd.io/KYQwJgZgLAbCCcBaYYCMB2RUDMEAci8ADHiIgMYBM6ArLOjFGEWEA===#), [issue](https://github.com/HackyHour/Wuerzburg/issues/37) |
