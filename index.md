@@ -15,7 +15,7 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-11-23 | Join the discussion | [pad](https://hackmd.io/KYDmFZgE2YFpgEYDsBOOAWARq5cQBmAhgXAAwBsBATEWeFmSKsEA#), [issue](https://github.com/HackyHour/Wuerzburg/issues/39) |
+| 2017-11-23 | Bioinformatics for malaria, helping a student group with their igem project  http://igem.org/Main_Page| [pad](https://hackmd.io/KYDmFZgE2YFpgEYDsBOOAWARq5cQBmAhgXAAwBsBATEWeFmSKsEA#), [issue](https://github.com/HackyHour/Wuerzburg/issues/39) |
 | 2017-10-26 | Crop Challenge, NodeJS + Express + MongoDB: [Chicken Clicker](https://github.com/sonjahohlfeld/chickenClickerTriggerPicker) | [pad](https://hackmd.io/GwdgJgTARgxsAcBaAZgUwIwkQFgAwRkQE5gYlQx4BmdeKK1eZIA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/38) |
 | 2017-09-28 | Captcha Breaker, Nethack | [pad](https://hackmd.io/KYQwJgZgLAbCCcBaYYCMB2RUDMEAci8ADHiIgMYBM6ArLOjFGEWEA===#), [issue](https://github.com/HackyHour/Wuerzburg/issues/37) |
 | 2017-08-24 | TensorFlow Primer | [pad](https://hackyhour.piratenpad.de/Wuerzburg20), [issue](https://github.com/HackyHour/Wuerzburg/issues/36) |
