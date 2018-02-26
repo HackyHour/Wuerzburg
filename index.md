@@ -15,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2018-02-22 | Join the discussion | [pad](https://hackmd.io/GwDgRgLAnApmDsBaAZgRgMwENEU6iiIAJlFIuiGvDEQKxTDoxA==#), [issue](https://github.com/HackyHour/Wuerzburg/issues/43) |
+| 2018-03-22 | Join the discussion | [pad](https://hackmd.io/MYIwnADApgbArBAtAZgCyoIyNQdmAE0QA44AzYRDAJiqmQiKtQEMiig=#) |
+| 2018-02-22 | Texteditors and IDEs (civilized editor wars), [VimGolf](http://vimgolf.com/) | [pad](https://hackmd.io/GwDgRgLAnApmDsBaAZgRgMwENEU6iiIAJlFIuiGvDEQKxTDoxA==#), [issue](https://github.com/HackyHour/Wuerzburg/issues/43) |
 | 2018-01-25 | DIY monitor case, esoteric programming languages | [pad](https://hackmd.io/GwBgzArAZgRgnDAtAYwBwEYqICwCYOICGuIAJoruiMcHLqahCEA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/42) |
 | 2017-11-23 | Bioinformatics for malaria, helping a student group with [igem project](http://igem.org/Main_Page) | [pad](https://hackmd.io/KYDmFZgE2YFpgEYDsBOOAWARq5cQBmAhgXAAwBsBATEWeFmSKsEA#), [issue](https://github.com/HackyHour/Wuerzburg/issues/39) |
 | 2017-10-26 | Crop Challenge, NodeJS + Express + MongoDB: [Chicken Clicker](https://github.com/sonjahohlfeld/chickenClickerTriggerPicker) | [pad](https://hackmd.io/GwdgJgTARgxsAcBaAZgUwIwkQFgAwRkQE5gYlQx4BmdeKK1eZIA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/38) |
