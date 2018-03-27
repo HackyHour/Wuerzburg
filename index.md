@@ -8,8 +8,6 @@ Since June 2017 we started the WUBSyB/HackyHour cross-over. Therefore, we start 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The WUBSyB has been moved to March 28 this time. HackyHour will still be on March 22 but will start at 5pm.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -17,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2018-03-22 | Join the discussion | [pad](https://hackmd.io/MYIwnADApgbArBAtAZgCyoIyNQdmAE0QA44AzYRDAJiqmQiKtQEMiig=#) |
+| 2018-04-26 | Join the discussion | [pad](https://hackmd.io/zPwRW4wqQquRjQTRC4T6Ew#) |
+| 2018-03-22 | Python Flask | [pad](https://hackmd.io/MYIwnADApgbArBAtAZgCyoIyNQdmAE0QA44AzYRDAJiqmQiKtQEMiig=#) |
 | 2018-02-22 | Texteditors and IDEs (civilized editor wars), [VimGolf](http://vimgolf.com/) | [pad](https://hackmd.io/GwDgRgLAnApmDsBaAZgRgMwENEU6iiIAJlFIuiGvDEQKxTDoxA==#), [issue](https://github.com/HackyHour/Wuerzburg/issues/43) |
 | 2018-01-25 | DIY monitor case, esoteric programming languages | [pad](https://hackmd.io/GwBgzArAZgRgnDAtAYwBwEYqICwCYOICGuIAJoruiMcHLqahCEA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/42) |
 | 2017-11-23 | Bioinformatics for malaria, helping a student group with [igem project](http://igem.org/Main_Page) | [pad](https://hackmd.io/KYDmFZgE2YFpgEYDsBOOAWARq5cQBmAhgXAAwBsBATEWeFmSKsEA#), [issue](https://github.com/HackyHour/Wuerzburg/issues/39) |
