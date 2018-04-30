@@ -15,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2018-04-26 | Join the discussion | [pad](https://hackmd.io/zPwRW4wqQquRjQTRC4T6Ew#) |
+| 2018-05-24 | Join the discussion | [pad](https://hackmd.io/-I6i6CsKRxqv1gyrLRcHVg) |
+| 2018-04-26 | Antisenese Splicing (RNA-Seq), Hardware: Arduino + LEDs | [pad](https://hackmd.io/zPwRW4wqQquRjQTRC4T6Ew#) |
 | 2018-03-22 | Python Flask | [pad](https://hackmd.io/MYIwnADApgbArBAtAZgCyoIyNQdmAE0QA44AzYRDAJiqmQiKtQEMiig=#) |
 | 2018-02-22 | Texteditors and IDEs (civilized editor wars), [VimGolf](http://vimgolf.com/) | [pad](https://hackmd.io/GwDgRgLAnApmDsBaAZgRgMwENEU6iiIAJlFIuiGvDEQKxTDoxA==#), [issue](https://github.com/HackyHour/Wuerzburg/issues/43) |
 | 2018-01-25 | DIY monitor case, esoteric programming languages | [pad](https://hackmd.io/GwBgzArAZgRgnDAtAYwBwEYqICwCYOICGuIAJoruiMcHLqahCEA=#), [issue](https://github.com/HackyHour/Wuerzburg/issues/42) |
