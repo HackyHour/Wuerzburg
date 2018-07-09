@@ -17,7 +17,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2018-06-28 | Join the discussion | [pad](https://hackmd.io/cfD5NJJvR8q2f76eBYzKMw) |
+| 2018-07-26 | Join the discussion | [pad](https://hackmd.io/Q1bZDBcfS5uPTf5b0hZrmg) |
+| 2018-06-28 | ReactOS | [pad](https://hackmd.io/cfD5NJJvR8q2f76eBYzKMw) |
 | 2018-05-24 | Text-Generation with Recurrent Neural Networks, word2vec | [pad](https://hackmd.io/-I6i6CsKRxqv1gyrLRcHVg) |
 | 2018-04-26 | Antisenese Splicing (RNA-Seq), Hardware: Arduino + LEDs | [pad](https://hackmd.io/zPwRW4wqQquRjQTRC4T6Ew#) |
 | 2018-03-22 | Python Flask | [pad](https://hackmd.io/MYIwnADApgbArBAtAZgCyoIyNQdmAE0QA44AzYRDAJiqmQiKtQEMiig=#) |
