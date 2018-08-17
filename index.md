@@ -8,7 +8,7 @@ Since June 2017 we started the WUBSyB/HackyHour cross-over. Therefore, we start 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The HackyHour in June 2018 will start at 5pm as the WUBSyB was shifted to another date this month.
+### Attention! There is no HackyHour in August 2018 (summer break) we will be back on September 27, 2018.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -17,7 +17,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2018-07-26 | Join the discussion | [pad](https://hackmd.io/Q1bZDBcfS5uPTf5b0hZrmg) |
+| 2018-09-27 | Join the discussion | [pad](https://hackmd.io/did0TvZBR9marwU6gz-e3w#) |
+| 2018-07-26 | Reinforcement Learning (nethack), GPG Smartcard | [pad](https://hackmd.io/Q1bZDBcfS5uPTf5b0hZrmg) |
 | 2018-06-28 | ReactOS | [pad](https://hackmd.io/cfD5NJJvR8q2f76eBYzKMw) |
 | 2018-05-24 | Text-Generation with Recurrent Neural Networks, word2vec | [pad](https://hackmd.io/-I6i6CsKRxqv1gyrLRcHVg) |
 | 2018-04-26 | Antisenese Splicing (RNA-Seq), Hardware: Arduino + LEDs | [pad](https://hackmd.io/zPwRW4wqQquRjQTRC4T6Ew#) |
