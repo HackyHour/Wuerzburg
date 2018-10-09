@@ -8,8 +8,6 @@ Since June 2017 we started the WUBSyB/HackyHour cross-over. Therefore, we start 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! There is no HackyHour in August 2018 (summer break) we will be back on September 27, 2018.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
