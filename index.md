@@ -17,7 +17,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2018-09-27 | Join the discussion | [pad](https://hackmd.io/did0TvZBR9marwU6gz-e3w#) |
+| 2018-10-25 | Join the discussion | [pad](https://hackmd.io/CCvNd8JWS-CG5aQ1QwNyjQ) |
+| 2018-09-27 | Data Analysis with Python (real RFID dataset) | [pad](https://hackmd.io/did0TvZBR9marwU6gz-e3w) |
 | 2018-07-26 | Reinforcement Learning (nethack), GPG Smartcard | [pad](https://hackmd.io/Q1bZDBcfS5uPTf5b0hZrmg) |
 | 2018-06-28 | ReactOS | [pad](https://hackmd.io/cfD5NJJvR8q2f76eBYzKMw) |
 | 2018-05-24 | Text-Generation with Recurrent Neural Networks, word2vec | [pad](https://hackmd.io/-I6i6CsKRxqv1gyrLRcHVg) |
