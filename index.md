@@ -14,7 +14,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2019-03-28 | Join the discussion | [pad](https://hackmd.io/xtLQjFvETJCMBB--rCddRg) |
+| 2019-04-25 | Join the discussion | [pad](https://hackmd.io/UJRSGr6xS0SCEeYnFinYtg) |
+| 2019-03-28 | Generative Adversarial Networks, [Twitter sentiment analysis](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/experiments/sentiment_analysis) | [pad](https://hackmd.io/xtLQjFvETJCMBB--rCddRg) |
 | 2018-11-29 | Fortran, Blender, Multiprocessing | [pad](https://hackmd.io/CCvNd8JWS-CG5aQ1QwNyjQ) |
 | 2018-09-27 | Data Analysis with Python (real RFID dataset) | [pad](https://hackmd.io/did0TvZBR9marwU6gz-e3w) |
 | 2018-07-26 | Reinforcement Learning (nethack), GPG Smartcard | [pad](https://hackmd.io/Q1bZDBcfS5uPTf5b0hZrmg) |
