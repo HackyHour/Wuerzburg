@@ -14,7 +14,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2019-05-23 | Join the discussion | [pad](https://hackmd.io/m279QLcORoesB20Dyl6Giw) |
+| 2019-06-27 | Join the discussion | [pad](https://hackmd.io/BujOxGFrSGec2xA2Izp2oQ) |
+| 2019-05-23 | Machine Learning ([Gym Cart Pole Challenge](https://gym.openai.com/envs/CartPole-v1/)) | [pad](https://hackmd.io/m279QLcORoesB20Dyl6Giw) |
 | 2019-04-25 | Clash of Code ([codingame.com](https://www.codingame.com/)) | [pad](https://hackmd.io/UJRSGr6xS0SCEeYnFinYtg) |
 | 2019-03-28 | Generative Adversarial Networks, [Twitter sentiment analysis](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/experiments/sentiment_analysis) | [pad](https://hackmd.io/xtLQjFvETJCMBB--rCddRg) |
 | 2018-11-29 | Fortran, Blender, Multiprocessing | [pad](https://hackmd.io/CCvNd8JWS-CG5aQ1QwNyjQ) |
