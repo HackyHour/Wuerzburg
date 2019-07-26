@@ -7,8 +7,6 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! There is no HackyHour in June, 2019. The next one will take place on July 25, 2019.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -16,7 +14,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2019-07-25 | Join the discussion | [pad](https://hackmd.io/BujOxGFrSGec2xA2Izp2oQ) |
+| 2019-08-22 | Join the discussion | [pad](https://hackmd.io/0h_bxDuwRlyVyZ07WJnKOQ) |
+| 2019-07-25 | Flow Cytometry Data Analysis | [pad](https://hackmd.io/BujOxGFrSGec2xA2Izp2oQ) |
 | 2019-05-23 | Machine Learning ([Gym Cart Pole Challenge](https://gym.openai.com/envs/CartPole-v1/)) | [pad](https://hackmd.io/m279QLcORoesB20Dyl6Giw) |
 | 2019-04-25 | Clash of Code ([codingame.com](https://www.codingame.com/)) | [pad](https://hackmd.io/UJRSGr6xS0SCEeYnFinYtg) |
 | 2019-03-28 | Generative Adversarial Networks, [Twitter sentiment analysis](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/experiments/sentiment_analysis) | [pad](https://hackmd.io/xtLQjFvETJCMBB--rCddRg) |
