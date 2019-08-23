@@ -14,7 +14,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2019-08-22 | Join the discussion | [pad](https://hackmd.io/0h_bxDuwRlyVyZ07WJnKOQ) |
+| 2019-09-26 | Join the discussion | [pad](https://hackmd.io/KRfFvvaBTL6zdRj__VaJMg) |
+| 2019-08-22 | scikit-learn, binary classification, ROC curves | [pad](https://hackmd.io/0h_bxDuwRlyVyZ07WJnKOQ) |
 | 2019-07-25 | Flow Cytometry Data Analysis | [pad](https://hackmd.io/BujOxGFrSGec2xA2Izp2oQ) |
 | 2019-05-23 | Machine Learning ([Gym Cart Pole Challenge](https://gym.openai.com/envs/CartPole-v1/)) | [pad](https://hackmd.io/m279QLcORoesB20Dyl6Giw) |
 | 2019-04-25 | Clash of Code ([codingame.com](https://www.codingame.com/)) | [pad](https://hackmd.io/UJRSGr6xS0SCEeYnFinYtg) |
