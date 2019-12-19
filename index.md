@@ -7,7 +7,7 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! Next HackyHour is postponed to December 12
+### Attention! Next HackyHour is in January 2020
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2019-12-12 | Join the discussion | [pad](https://hackmd.io/SZzFRSn0SiO04GPFjOQwCA) |
+| 2020-01-23 | Join the discussion &rarr; | [pad](https://hackmd.io/FeEXN14sQWuIHJ9W1LrPnQ) |
+| 2019-12-12 | Audio analysis (python) - say it challenge | [pad](https://hackmd.io/SZzFRSn0SiO04GPFjOQwCA) |
 | 2019-10-24 | Cart Pole Challenge II: Deep Q Learning (DQN) | [pad](https://hackmd.io/ZVt5BmQgStyqBdvYK3wVLw) |
 | 2019-09-26 | Data labelling ([platform.ai](https://platform.ai)) | [pad](https://hackmd.io/KRfFvvaBTL6zdRj__VaJMg) |
 | 2019-08-22 | scikit-learn, binary classification, ROC curves | [pad](https://hackmd.io/0h_bxDuwRlyVyZ07WJnKOQ) |
