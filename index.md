@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2020-01-23 | Join the discussion &rarr; | [pad](https://hackmd.io/FeEXN14sQWuIHJ9W1LrPnQ) |
+| 2020-02-27 | Join the discussion &rarr; | [pad](https://hackmd.io/_bc_KWTEReuZUQm0h5Dxnw) |
+| 2020-01-23 | Audio analysis, fourier transformation, feature extraction | [pad](https://hackmd.io/FeEXN14sQWuIHJ9W1LrPnQ) |
 | 2019-12-12 | Audio analysis (python) - say it challenge | [pad](https://hackmd.io/SZzFRSn0SiO04GPFjOQwCA) |
 | 2019-10-24 | Cart Pole Challenge II: Deep Q Learning (DQN) | [pad](https://hackmd.io/ZVt5BmQgStyqBdvYK3wVLw) |
 | 2019-09-26 | Data labelling ([platform.ai](https://platform.ai)) | [pad](https://hackmd.io/KRfFvvaBTL6zdRj__VaJMg) |
