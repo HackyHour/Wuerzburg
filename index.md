@@ -7,6 +7,8 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
+### Attention! For obvious reasons the March 2020 HackyHour will not be in person. It will be virtual. The link to our chat room (jitsi) will be posted at 5pm in the pad. See you there!
+
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
