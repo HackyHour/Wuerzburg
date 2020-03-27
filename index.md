@@ -7,7 +7,7 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! For obvious reasons the March 2020 HackyHour will not be in person. It will be virtual. The link to our chat room (jitsi) will be posted at 5pm in the pad. See you there!
+### Attention! The next HackyHour in April 2020 might again not be in person but virtual. The decision will be made ahead of time depending on the current situation. Stay posted and stay healthy!
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2020-03-26 | Join the discussion &rarr; | [pad](https://hackmd.io/K1AhJ1PrSW-lY75-hUxYxQ) |
+| 2020-04-23 | Join the discussion &rarr; | [pad](https://hackmd.io/4mPInEJSQy-BoTmnA2ePEw) |
+| 2020-03-26 | Remote HackyHour (COVID-19), discussions | [pad](https://hackmd.io/K1AhJ1PrSW-lY75-hUxYxQ) |
 | 2020-02-27 | Audio analysis, gaussian blurring, polynomial fitting | [pad](https://hackmd.io/_bc_KWTEReuZUQm0h5Dxnw) |
 | 2020-01-23 | Audio analysis, fourier transformation, feature extraction | [pad](https://hackmd.io/FeEXN14sQWuIHJ9W1LrPnQ) |
 | 2019-12-12 | Audio analysis (python) - say it challenge | [pad](https://hackmd.io/SZzFRSn0SiO04GPFjOQwCA) |
