@@ -7,7 +7,7 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The next HackyHour in June 2020 might again be virtual. The decision will be made ahead of time depending on the current situation. Stay posted and stay healthy!
+### Attention! We are moving HackyHour back to a live in-person format. If you want to attend but feel uncomfortable to join in person, please indicate this in the pad. In this case we will make it possible to join remotely as well. Stay healthy!
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2020-06-25 | Join the discussion &rarr; | [pad](https://hackmd.io/j7FB6IPeTKqytS1Zp24keA) |
+| 2020-07-23 | Join the discussion &rarr; | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
+| 2020-06-25 | Building networks with [pythrahyper_net](https://github.com/CIA-CCTB/pythrahyper_net) | [pad](https://hackmd.io/j7FB6IPeTKqytS1Zp24keA) |
 | 2020-05-28 | Remote HackyHour (COVID-19), misc, Octodad, Maneater | [pad](https://hackmd.io/GGk5HufaQ3GRDT1ou7J-Tg) |
 | 2020-04-23 | Remote HackyHour (COVID-19), Big Blue Button | [pad](https://hackmd.io/4mPInEJSQy-BoTmnA2ePEw) |
 | 2020-03-26 | Remote HackyHour (COVID-19), discussions | [pad](https://hackmd.io/K1AhJ1PrSW-lY75-hUxYxQ) |
