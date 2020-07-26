@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2020-07-23 | Join the discussion &rarr; | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
+| 2020-08-27 | Join the discussion &rarr; | [pad](https://hackmd.io/GjxmnEG8QVyMWEaxfiT6GQ) |
+| 2020-07-23 | Data management solutions (based on kubernetes), remote Software Carpentry workshops | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
 | 2020-06-25 | Building networks with [pythrahyper_net](https://github.com/CIA-CCTB/pythrahyper_net) | [pad](https://hackmd.io/j7FB6IPeTKqytS1Zp24keA) |
 | 2020-05-28 | Remote HackyHour (COVID-19), misc, Octodad, Maneater | [pad](https://hackmd.io/GGk5HufaQ3GRDT1ou7J-Tg) |
 | 2020-04-23 | Remote HackyHour (COVID-19), Big Blue Button | [pad](https://hackmd.io/4mPInEJSQy-BoTmnA2ePEw) |
