@@ -15,7 +15,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
-| -- | ---------- |--------------| ----------:|
+| --:| ---------- |--------------| ----------:|
 | 49 | 2020-09-24 | Join the discussion &rarr; | [pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ) |
 | 48 | 2020-08-27 | Control DPS5005 power supply with [python GUI](https://github.com/lambcutlet/DPS5005_pyGUI) | [pad](https://hackmd.io/GjxmnEG8QVyMWEaxfiT6GQ) |
 | 47 | 2020-07-23 | Data management solutions (based on kubernetes), remote Software Carpentry workshops | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
