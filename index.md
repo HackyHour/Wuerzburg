@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 49 | 2020-09-24 | Join the discussion &rarr; | [pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ) |
+| 50 | 2020-10-22 | Join the discussion &rarr; | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
+| 49 | 2020-09-24 | [Data Gorilla](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w), [SQL Murder Mystery](http://mystery.knightlab.com/), [Project Euler](https://projecteuler.net/) | [pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ) |
 | 48 | 2020-08-27 | Control DPS5005 power supply with [python GUI](https://github.com/lambcutlet/DPS5005_pyGUI) | [pad](https://hackmd.io/GjxmnEG8QVyMWEaxfiT6GQ) |
 | 47 | 2020-07-23 | Data management solutions (based on kubernetes), remote Software Carpentry workshops | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
 | 46 | 2020-06-25 | Building networks with [pythrahyper_net](https://github.com/CIA-CCTB/pythrahyper_net) | [pad](https://hackmd.io/j7FB6IPeTKqytS1Zp24keA) |
