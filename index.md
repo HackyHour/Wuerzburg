@@ -7,7 +7,7 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! We are moving HackyHour back to a live in-person format. If you want to attend but feel uncomfortable to join in person, please indicate this in the pad. In this case we will make it possible to join remotely as well. Stay healthy!
+### Attention! Starting from October HackyHour will be virtual again. Unfortunately, infection numbers are rising and so it would not be responsible to meet in person. We will move back to the live format as soon as numbers allow it. Stay healthy!
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -16,7 +16,7 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 50 | 2020-10-22 | Join the discussion &rarr; | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
+| 50 | 2020-10-22 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
 | 49 | 2020-09-24 | [Data Gorilla](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w), [SQL Murder Mystery](http://mystery.knightlab.com/), [Project Euler](https://projecteuler.net/) | [pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ) |
 | 48 | 2020-08-27 | Control DPS5005 power supply with [python GUI](https://github.com/lambcutlet/DPS5005_pyGUI) | [pad](https://hackmd.io/GjxmnEG8QVyMWEaxfiT6GQ) |
 | 47 | 2020-07-23 | Data management solutions (based on kubernetes), remote Software Carpentry workshops | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
