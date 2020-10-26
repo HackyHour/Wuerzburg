@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 50 | 2020-10-22 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
+| 51 | 2020-11-26 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/ye4RC_FWTN2ehxkfT9cusQ) |
+| 50 | 2020-10-22 | Remote HackyHour (COVID-19), [Minkowski Functionals](https://morphometry.org/), [Risky Moon Challenge](https://projecteuler.net/problem=353) | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
 | 49 | 2020-09-24 | [Data Gorilla](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w), [SQL Murder Mystery](http://mystery.knightlab.com/), [Project Euler](https://projecteuler.net/) | [pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ) |
 | 48 | 2020-08-27 | Control DPS5005 power supply with [python GUI](https://github.com/lambcutlet/DPS5005_pyGUI) | [pad](https://hackmd.io/GjxmnEG8QVyMWEaxfiT6GQ) |
 | 47 | 2020-07-23 | Data management solutions (based on kubernetes), remote Software Carpentry workshops | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
