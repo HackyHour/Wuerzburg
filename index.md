@@ -7,7 +7,7 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The December HackyHour is preponed to December 17 (instead of December 24). The HackyHour is currently virtual only. We will move back to the live format as soon as numbers allow it. Stay healthy!
+### Attention! The HackyHour is currently virtual only. We will move back to the live format as soon as numbers allow it. Stay healthy!
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 52 | 2020-12-17 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/WoK3wYJvQlqh0S30xKBMXg) |
+| 53 | 2021-01-28 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/hB_NPVCrSY2ROozic3z7wg) |
+| 52 | 2020-12-17 | Remote HackyHour (COVID-19), [AdventOfCode](https://adventofcode.com/2020) Coding Dojo | [pad](https://hackmd.io/WoK3wYJvQlqh0S30xKBMXg) |
 | 51 | 2020-11-26 | Remote HackyHour (COVID-19), git bisect | [pad](https://hackmd.io/ye4RC_FWTN2ehxkfT9cusQ) |
 | 50 | 2020-10-22 | Remote HackyHour (COVID-19), [Minkowski Functionals](https://morphometry.org/), [Risky Moon Challenge](https://projecteuler.net/problem=353) | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
 | 49 | 2020-09-24 | [Data Gorilla](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w), [SQL Murder Mystery](http://mystery.knightlab.com/), [Project Euler](https://projecteuler.net/) | [pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ) |
