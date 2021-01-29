@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 53 | 2021-01-28 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/hB_NPVCrSY2ROozic3z7wg) |
+| 54 | 2021-02-25 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/Akz7_-DiT1e3eaTdcbsO1A) |
+| 53 | 2021-01-28 | Challenge Platform [ctfd](https://ctfd.io/), tidytuesday: [cats and dogs](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-09-11) | [pad](https://hackmd.io/hB_NPVCrSY2ROozic3z7wg) |
 | 52 | 2020-12-17 | Remote HackyHour (COVID-19), [AdventOfCode](https://adventofcode.com/2020) Coding Dojo | [pad](https://hackmd.io/WoK3wYJvQlqh0S30xKBMXg) |
 | 51 | 2020-11-26 | Remote HackyHour (COVID-19), git bisect | [pad](https://hackmd.io/ye4RC_FWTN2ehxkfT9cusQ) |
 | 50 | 2020-10-22 | Remote HackyHour (COVID-19), [Minkowski Functionals](https://morphometry.org/), [Risky Moon Challenge](https://projecteuler.net/problem=353) | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
