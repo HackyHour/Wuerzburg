@@ -33,4 +33,4 @@ Password: 336687
 
 ## Cross Links
  - [previous pad](https://hackmd.io/WoK3wYJvQlqh0S30xKBMXg)
- - [next pad]
+ - [next pad](https://hackmd.io/Akz7_-DiT1e3eaTdcbsO1A)
