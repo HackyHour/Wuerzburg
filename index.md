@@ -17,18 +17,18 @@ Online discussions for these topics are accessible via the following links.
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
 | 55 | 2021-03-25 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/Ub6Y6PyjSxOlEoVDIQ3Xlw) |
-| 54 | 2021-02-25 | Remote HackyHour (COVID-19), [Zig](https://ziglang.org/), [Loss Landscapes](https://losslandscape.com/explorer) | [pad](https://hackmd.io/Akz7_-DiT1e3eaTdcbsO1A) |
-| 53 | 2021-01-28 | Remote HackyHour (COVID-19), Challenge Platform [ctfd](https://ctfd.io/), tidytuesday: [cats and dogs](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-09-11) | [pad](https://hackmd.io/hB_NPVCrSY2ROozic3z7wg) |
-| 52 | 2020-12-17 | Remote HackyHour (COVID-19), [AdventOfCode](https://adventofcode.com/2020) Coding Dojo | [pad](https://hackmd.io/WoK3wYJvQlqh0S30xKBMXg) |
-| 51 | 2020-11-26 | Remote HackyHour (COVID-19), git bisect | [pad](https://hackmd.io/ye4RC_FWTN2ehxkfT9cusQ) |
-| 50 | 2020-10-22 | Remote HackyHour (COVID-19), [Minkowski Functionals](https://morphometry.org/), [Risky Moon Challenge](https://projecteuler.net/problem=353) | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
+| 54 | 2021-02-25 | *Remote (COVID-19)*, [Zig](https://ziglang.org/), [Loss Landscapes](https://losslandscape.com/explorer) | [pad](https://hackmd.io/Akz7_-DiT1e3eaTdcbsO1A) |
+| 53 | 2021-01-28 | *Remote (COVID-19)*, Challenge Platform [ctfd](https://ctfd.io/), tidytuesday: [cats and dogs](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-09-11) | [pad](https://hackmd.io/hB_NPVCrSY2ROozic3z7wg) |
+| 52 | 2020-12-17 | *Remote (COVID-19)*, [AdventOfCode](https://adventofcode.com/2020) Coding Dojo | [pad](https://hackmd.io/WoK3wYJvQlqh0S30xKBMXg) |
+| 51 | 2020-11-26 | *Remote (COVID-19)*, git bisect | [pad](https://hackmd.io/ye4RC_FWTN2ehxkfT9cusQ) |
+| 50 | 2020-10-22 | *Remote (COVID-19)*, [Minkowski Functionals](https://morphometry.org/), [Risky Moon Challenge](https://projecteuler.net/problem=353) | [pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw) |
 | 49 | 2020-09-24 | [Data Gorilla](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w), [SQL Murder Mystery](http://mystery.knightlab.com/), [Project Euler](https://projecteuler.net/) | [pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ) |
 | 48 | 2020-08-27 | Control DPS5005 power supply with [python GUI](https://github.com/lambcutlet/DPS5005_pyGUI) | [pad](https://hackmd.io/GjxmnEG8QVyMWEaxfiT6GQ) |
 | 47 | 2020-07-23 | Data management solutions (based on kubernetes), remote Software Carpentry workshops | [pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw) |
 | 46 | 2020-06-25 | Building networks with [pythrahyper_net](https://github.com/CIA-CCTB/pythrahyper_net) | [pad](https://hackmd.io/j7FB6IPeTKqytS1Zp24keA) |
-| 45 | 2020-05-28 | Remote HackyHour (COVID-19), misc, Octodad, Maneater | [pad](https://hackmd.io/GGk5HufaQ3GRDT1ou7J-Tg) |
-| 44 | 2020-04-23 | Remote HackyHour (COVID-19), Big Blue Button | [pad](https://hackmd.io/4mPInEJSQy-BoTmnA2ePEw) |
-| 43 | 2020-03-26 | Remote HackyHour (COVID-19), discussions | [pad](https://hackmd.io/K1AhJ1PrSW-lY75-hUxYxQ) |
+| 45 | 2020-05-28 | *Remote (COVID-19)*, misc, Octodad, Maneater | [pad](https://hackmd.io/GGk5HufaQ3GRDT1ou7J-Tg) |
+| 44 | 2020-04-23 | *Remote (COVID-19)*, Big Blue Button | [pad](https://hackmd.io/4mPInEJSQy-BoTmnA2ePEw) |
+| 43 | 2020-03-26 | *Remote (COVID-19)*, discussions | [pad](https://hackmd.io/K1AhJ1PrSW-lY75-hUxYxQ) |
 | 42 | 2020-02-27 | Audio analysis, gaussian blurring, polynomial fitting | [pad](https://hackmd.io/_bc_KWTEReuZUQm0h5Dxnw) |
 | 41 | 2020-01-23 | Audio analysis, fourier transformation, feature extraction | [pad](https://hackmd.io/FeEXN14sQWuIHJ9W1LrPnQ) |
 | 40 | 2019-12-12 | Audio analysis (python) - say it challenge | [pad](https://hackmd.io/SZzFRSn0SiO04GPFjOQwCA) |
