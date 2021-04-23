@@ -16,7 +16,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 56 | 2021-04-22 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/iPHiWmkyQ_uCC-NHJTsu_w) |
+| 57 | 2021-05-27 | !virtual! Join the discussion &rarr; | [pad](https://hackmd.io/Vp3Bw7NjS2aMmSyVEbv0aQ) |
+| 56 | 2021-04-22 | *Remote (COVID-19)*, [meetingplace.io](https://meetingplace.io/), [CorrelAid](https://correlaid.org/de/), [Neural Arithmetic Logic Units (NALUs)](https://github.com/HackyHour/Wuerzburg/blob/gh-pages/56_nalu/nalu_problem.ipynb) | [pad](https://hackmd.io/iPHiWmkyQ_uCC-NHJTsu_w) |
 | 55 | 2021-03-25 | *Remote (COVID-19)*, Android root/cutom rom, Physics | [pad](https://hackmd.io/Ub6Y6PyjSxOlEoVDIQ3Xlw) |
 | 54 | 2021-02-25 | *Remote (COVID-19)*, [Zig](https://ziglang.org/), [Loss Landscapes](https://losslandscape.com/explorer) | [pad](https://hackmd.io/Akz7_-DiT1e3eaTdcbsO1A) |
 | 53 | 2021-01-28 | *Remote (COVID-19)*, Challenge Platform [ctfd](https://ctfd.io/), tidytuesday: [cats and dogs](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-09-11) | [pad](https://hackmd.io/hB_NPVCrSY2ROozic3z7wg) |
