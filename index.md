@@ -1,6 +1,7 @@
 # About
 Come to talk about science in a social environment.
 If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
+We strive to be an open and inclusive community, everyone is welcome! We have a [code of conduct](./CodeOfConduct) that we adhere to.
 
 # When and Where
 Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094).
