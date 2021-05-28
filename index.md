@@ -79,7 +79,8 @@ Online discussions for these topics are accessible via the following links.
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
-If you are interested in the HackyHour you should also check out [WUBSyB](http://wubsyb.github.io/)
+If you are interested in the HackyHour you should also check out [WUBSyB](http://wubsyb.github.io/) (currently on hold).
+A new project [Data Dojo Würzburg](https://ddojo.github.io/) aims at training data analytics skills together.
 
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
