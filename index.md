@@ -8,7 +8,7 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The HackyHour in June is one day early on **Wednesday**, June 23! It might be live again, depending on the situation.
+### Attention! The HackyHour in June is one day early on **Wednesday**, June 23! It will be virtual again but we might move back to a live format soon.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
