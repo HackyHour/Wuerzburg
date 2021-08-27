@@ -18,7 +18,7 @@ Online discussions for these topics are accessible via the following links.
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
 | 61 | 2021-09-23 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
-| 60 | 2021-08-26 | Simple [code benchmark](https://github.com/scfischer/Tutorials/tree/main/Python%20Julia%20Performance%20comparison): python, julia, R, rust, perl, C++ | [pad](https://hackmd.io/6NEAgYksTOauc0e32xzqXg) |
+| 60 | 2021-08-26 | Simple [code benchmark](https://github.com/scfischer/Tutorials/tree/main/Language%20Performance%20Comparison): python, julia, R, rust, perl, C++ | [pad](https://hackmd.io/6NEAgYksTOauc0e32xzqXg) |
 | 59 | 2021-07-29 | Physics Simulation with Blender: [Shoot the Monkey](./59_monkey) | [pad](https://hackmd.io/ULt-hKyZSXSMi2kGGNdYPg) |
 | 58 | 2021-06-23 | *Remote (COVID-19)*, protein supersecondary structure, 3D printing, zstd compression | [pad](https://hackmd.io/IgyMLwQqS9CpXWGoo8NYHA) |
 | 57 | 2021-05-27 | *Remote (COVID-19)*, [Open Data Würzburg](https://opendata.wuerzburg.de/): [pedestrian counts](https://opendata.wuerzburg.de/explore/dataset/hystreet_ab_1-1-2019/information/) | [pad](https://hackmd.io/Vp3Bw7NjS2aMmSyVEbv0aQ) |
