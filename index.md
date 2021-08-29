@@ -8,7 +8,9 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The format (live or virtual) of the HackyHour in September will be anounced closer to the event. If live, it might happen at the physics department of the university.
+### Poll for Future Date and Time: Please participate in [this poll](https://terminplaner4.dfn.de/FMR2SFxGoFhp2SJR) if you plan to participate in the HackyHour (at least from time to time).
+
+### Attention! The format (live or virtual) of the HackyHour in September will be anounced closer to the event. If live, it happens at the physics department of the university.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
