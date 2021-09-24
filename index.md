@@ -4,13 +4,11 @@ If you want to know how computational tools and code can improve your science or
 We strive to be an open and inclusive community, everyone is welcome! We have a [code of conduct](./CodeOfConduct) that we adhere to.
 
 # When and Where
-Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094).
+Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) or the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see pad).
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Poll for Future Date and Time: Please participate in [this poll](https://terminplaner4.dfn.de/FMR2SFxGoFhp2SJR) if you plan to participate in the HackyHour (at least from time to time).
-
-### Attention! The format (live or virtual) of the HackyHour in September will be anounced closer to the event. If live, it happens at the physics department of the university.
+### Attention! The format (live or virtual) of the HackyHour in October will be anounced closer to the event. If live, it happens at the CCTB.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -19,7 +17,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 61 | 2021-09-23 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 62 | 2021-10-28 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 61 | 2021-09-23 | Compiled and optimized [code benchmark](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/61_dgl) | [pad](https://hackmd.io/BytwdinoQAeSDkDTalLwGQ) |
 | 60 | 2021-08-26 | Simple [code benchmark](https://github.com/scfischer/Tutorials/tree/main/Language%20Performance%20Comparison): python, julia, R, rust, perl, C++ | [pad](https://hackmd.io/6NEAgYksTOauc0e32xzqXg) |
 | 59 | 2021-07-29 | Physics Simulation with Blender: [Shoot the Monkey](./59_monkey) | [pad](https://hackmd.io/ULt-hKyZSXSMi2kGGNdYPg) |
 | 58 | 2021-06-23 | *Remote (COVID-19)*, protein supersecondary structure, 3D printing, zstd compression | [pad](https://hackmd.io/IgyMLwQqS9CpXWGoo8NYHA) |
