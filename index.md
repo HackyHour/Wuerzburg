@@ -8,7 +8,7 @@ Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.g
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The format (live or virtual) of the HackyHour in October will be anounced closer to the event. If live, it happens at the CCTB.
+### Attention! The HackyHour in October will happen live in the CCTB (3G rules apply). It starts at 5:30pm (30 minutes later than usual).
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
