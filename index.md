@@ -4,11 +4,11 @@ If you want to know how computational tools and code can improve your science or
 We strive to be an open and inclusive community, everyone is welcome! We have a [code of conduct](./CodeOfConduct) that we adhere to.
 
 # When and Where
-Every fourth Thursday of the month at 5 pm at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) or the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see pad).
+Every fourth Thursday of the month at 5 pm alternating at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see pad).
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The HackyHour in October will happen live in the CCTB (3G rules apply). It starts at 5:30pm (30 minutes later than usual).
+### Attention! The HackyHour in November is shifted by a week and actually happens in December. It will be on December 2, 2021 at 5pm in the Physics Department. There might be Glühwein.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -17,7 +17,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 62 | 2021-10-28 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 63 | 2021-12-02 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 62 | 2021-10-28 | [DataLad](https://www.datalad.org/) on [GitLab](https://gitlab.com/iimog/datalad-gitlab-lfs) with [LFS](https://git-lfs.github.com/) | [pad](https://hackmd.io/nLb5WktASq6AYVqZV1Bv2A) |
 | 61 | 2021-09-23 | Compiled and optimized [code benchmark](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/61_dgl) | [pad](https://hackmd.io/BytwdinoQAeSDkDTalLwGQ) |
 | 60 | 2021-08-26 | Simple [code benchmark](https://github.com/scfischer/Tutorials/tree/main/Language%20Performance%20Comparison): python, julia, R, rust, perl, C++ | [pad](https://hackmd.io/6NEAgYksTOauc0e32xzqXg) |
 | 59 | 2021-07-29 | Physics Simulation with Blender: [Shoot the Monkey](./59_monkey) | [pad](https://hackmd.io/ULt-hKyZSXSMi2kGGNdYPg) |
