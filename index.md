@@ -8,7 +8,7 @@ Every fourth Thursday of the month at 5 pm alternating at the [CCTB Würzburg](h
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The HackyHour in January 2022 might be live or online, depending on the situation.
+### Attention! The HackyHour in February 2022 might be live or online, depending on the situation.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -17,7 +17,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 64 | 2022-01-27 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 65 | 2022-02-24 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 64 | 2022-01-27 | *Hybrid (COVID-19)*, Experiences doing [Advent of Code](https://adventofcode.com/) (in Go and Julia) | [pad](https://hackmd.io/eeIkuJx-TECX2rMU07CS5w) |
 | 63 | 2021-12-02 | [Napari time series plotter](https://github.com/ch-n/napari-time_series_plotter), [python hashable types](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/63_python_hash/hashable_edge.ipynb), [Software Carpentry follow-up](https://git.physik.uni-wuerzburg.de/Z03/swc-followup) | [pad](https://hackmd.io/WXe2eb--SDymvD7g84F5ow) |
 | 62 | 2021-10-28 | [DataLad](https://www.datalad.org/) on [GitLab](https://gitlab.com/iimog/datalad-gitlab-lfs) with [LFS](https://git-lfs.github.com/) | [pad](https://hackmd.io/nLb5WktASq6AYVqZV1Bv2A) |
 | 61 | 2021-09-23 | Compiled and optimized [code benchmark](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/61_dgl) | [pad](https://hackmd.io/BytwdinoQAeSDkDTalLwGQ) |
