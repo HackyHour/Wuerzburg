@@ -17,7 +17,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 67 | 2022-04-28 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 68 | 2022-05-26 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 67 | 2022-04-28 | Poster design, Maelstrom challenge | [pad](https://hackmd.io/dtsjvzjfQYexzvLIrGDcZw) |
 | 66 | 2022-03-22 | *Hybrid (COVID-19)*, Netwide Assembler | [pad](https://hackmd.io/Obubpd9RQ6W1rAWjyk8B0g) |
 | 65 | 2022-02-23 | $\LaTeX$ with Jupyter Book, playing with [GitHub Copilot](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/65_copilot) | [pad](https://hackmd.io/dV1zluhRQHiCvCHwOFb7rw) |
 | 64 | 2022-01-27 | *Hybrid (COVID-19)*, Experiences doing [Advent of Code](https://adventofcode.com/) (in Go and Julia) | [pad](https://hackmd.io/eeIkuJx-TECX2rMU07CS5w) |
