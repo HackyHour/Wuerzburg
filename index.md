@@ -8,8 +8,6 @@ Every fourth Thursday of the month at 5 pm alternating at the [CCTB Würzburg](h
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! Because of a holiday, the HackyHour in May happens on **Wednesday**, May 25. We currently plan to meet live.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -17,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 68 | 2022-05-25 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 69 | 2022-05-25 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 68 | 2022-05-25 | Solved multiple problems, finished Maelstrom challenge | [pad](https://hackmd.io/3TNFuhpxTfOBm4fh8lV88w) |
 | 67 | 2022-04-28 | Poster design, Maelstrom challenge | [pad](https://hackmd.io/dtsjvzjfQYexzvLIrGDcZw) |
 | 66 | 2022-03-22 | *Hybrid (COVID-19)*, Netwide Assembler | [pad](https://hackmd.io/Obubpd9RQ6W1rAWjyk8B0g) |
 | 65 | 2022-02-23 | $\LaTeX$ with Jupyter Book, playing with [GitHub Copilot](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/65_copilot) | [pad](https://hackmd.io/dV1zluhRQHiCvCHwOFb7rw) |
