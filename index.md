@@ -15,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 69 | 2022-06-23 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 70 | 2022-07-28 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 69 | 2022-06-23 | Jupyter Hub, eLabFTW, Pluto Notebooks | [pad](https://hackmd.io/dWvHIX-vSV2Re8TkfCDEPg) |
 | 68 | 2022-05-25 | Solved multiple problems, finished Maelstrom challenge | [pad](https://hackmd.io/3TNFuhpxTfOBm4fh8lV88w) |
 | 67 | 2022-04-28 | Poster design, Maelstrom challenge | [pad](https://hackmd.io/dtsjvzjfQYexzvLIrGDcZw) |
 | 66 | 2022-03-22 | *Hybrid (COVID-19)*, Netwide Assembler | [pad](https://hackmd.io/Obubpd9RQ6W1rAWjyk8B0g) |
