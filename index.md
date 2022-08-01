@@ -15,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 70 | 2022-07-28 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 71 | 2022-08-25 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 70 | 2022-07-28 | Text2Image ([dalle-mini](https://github.com/borisdayma/dalle-mini)), [AoC2017#7](https://adventofcode.com/2017/day/7) | [pad](https://hackmd.io/OB7XWKdiTJOPNvB9ImgGtw) |
 | 69 | 2022-06-23 | Jupyter Hub, eLabFTW, Pluto Notebooks | [pad](https://hackmd.io/dWvHIX-vSV2Re8TkfCDEPg) |
 | 68 | 2022-05-25 | Solved multiple problems, finished Maelstrom challenge | [pad](https://hackmd.io/3TNFuhpxTfOBm4fh8lV88w) |
 | 67 | 2022-04-28 | Poster design, Maelstrom challenge | [pad](https://hackmd.io/dtsjvzjfQYexzvLIrGDcZw) |
