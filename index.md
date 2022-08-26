@@ -4,7 +4,7 @@ If you want to know how computational tools and code can improve your science or
 We strive to be an open and inclusive community, everyone is welcome! We have a [code of conduct](./CodeOfConduct) that we adhere to.
 
 # When and Where
-Every fourth Thursday of the month at 5 pm alternating at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see pad).
+Every fourth Thursday of the month at 5 pm alternating at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://go.uniwue.de/hackyhour-pad)).
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
@@ -15,7 +15,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 71 | 2022-08-25 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 72 | 2022-09-22 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 71 | 2022-08-25 | [Oh My Git!](https://ohmygit.org/) | [pad](https://hackmd.io/VytiNMFVQ1q6gS8DmSjfLA) |
 | 70 | 2022-07-28 | Text2Image ([dalle-mini](https://github.com/borisdayma/dalle-mini)), [AoC2017#7](https://adventofcode.com/2017/day/7) | [pad](https://hackmd.io/OB7XWKdiTJOPNvB9ImgGtw) |
 | 69 | 2022-06-23 | Jupyter Hub, eLabFTW, Pluto Notebooks | [pad](https://hackmd.io/dWvHIX-vSV2Re8TkfCDEPg) |
 | 68 | 2022-05-25 | Solved multiple problems, finished Maelstrom challenge | [pad](https://hackmd.io/3TNFuhpxTfOBm4fh8lV88w) |
