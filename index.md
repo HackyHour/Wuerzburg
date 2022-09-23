@@ -4,11 +4,11 @@ If you want to know how computational tools and code can improve your science or
 We strive to be an open and inclusive community, everyone is welcome! We have a [code of conduct](./CodeOfConduct) that we adhere to.
 
 # When and Where
-Every fourth Thursday of the month at 5 pm alternating at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see pad).
-You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
+Every fourth Thursday of the month at 5 pm alternating at the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://go.uniwue.de/hackyhour-pad)).
+You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The next HackyHour might be live or online, depending on the situation.
+### Attention! The September HackyHour will start at 5pm, as usual. It will be in person in the CCTB.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -17,7 +17,13 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 66 | 2022-03-24 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 72 | 2022-09-22 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 71 | 2022-08-25 | [Oh My Git!](https://ohmygit.org/) | [pad](https://hackmd.io/VytiNMFVQ1q6gS8DmSjfLA) |
+| 70 | 2022-07-28 | Text2Image ([dalle-mini](https://github.com/borisdayma/dalle-mini)), [AoC2017#7](https://adventofcode.com/2017/day/7) | [pad](https://hackmd.io/OB7XWKdiTJOPNvB9ImgGtw) |
+| 69 | 2022-06-23 | Jupyter Hub, eLabFTW, Pluto Notebooks | [pad](https://hackmd.io/dWvHIX-vSV2Re8TkfCDEPg) |
+| 68 | 2022-05-25 | Solved multiple problems, finished Maelstrom challenge | [pad](https://hackmd.io/3TNFuhpxTfOBm4fh8lV88w) |
+| 67 | 2022-04-28 | Poster design, Maelstrom challenge | [pad](https://hackmd.io/dtsjvzjfQYexzvLIrGDcZw) |
+| 66 | 2022-03-22 | *Hybrid (COVID-19)*, Netwide Assembler | [pad](https://hackmd.io/Obubpd9RQ6W1rAWjyk8B0g) |
 | 65 | 2022-02-23 | $\LaTeX$ with Jupyter Book, playing with [GitHub Copilot](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/65_copilot) | [pad](https://hackmd.io/dV1zluhRQHiCvCHwOFb7rw) |
 | 64 | 2022-01-27 | *Hybrid (COVID-19)*, Experiences doing [Advent of Code](https://adventofcode.com/) (in Go and Julia) | [pad](https://hackmd.io/eeIkuJx-TECX2rMU07CS5w) |
 | 63 | 2021-12-02 | [Napari time series plotter](https://github.com/ch-n/napari-time_series_plotter), [python hashable types](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/63_python_hash/hashable_edge.ipynb), [Software Carpentry follow-up](https://git.physik.uni-wuerzburg.de/Z03/swc-followup) | [pad](https://hackmd.io/WXe2eb--SDymvD7g84F5ow) |
