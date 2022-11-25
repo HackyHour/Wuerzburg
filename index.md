@@ -7,14 +7,14 @@ We strive to be an open and inclusive community, everyone is welcome! We have a 
 The location is alternating between the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://go.uniwue.de/hackyhour-pad)).
 
 # When
-Starting from Decmeber 2022 we try out the following scheme:
-- **even month**: HackyHour is on the fourth **Monday** in the **physics department**
-- **odd month**: HackyHour is on the fourth **Wedensday** in the **CCTB**
+Starting from January 2023 we try out the following scheme:
+- **odd month**: HackyHour is on the fourth **Monday** in the **physics department**
+- **even month**: HackyHour is on the fourth **Wedensday** in the **CCTB**
 
 You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The November HackyHour will be on **Thursday**, November 24 at 5pm in the CCTB.
+### Attention! The December HackyHour will be on **Monday**, December 19 at 5pm in the **CCTB**.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -23,7 +23,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 74 | 2022-11-24 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 75 | 2022-12-19 | Seasonal HackyHour 🎅 Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 74 | 2022-11-24 | eLabFTW MySQL problem | [pad](https://hackmd.io/czVzy_E6TcmIvkDCYZjYxg) |
 | 73 | 2022-10-26 | Julia problem, components of a workstation | [pad](https://hackmd.io/V63YooQGTwmR4etXR3ZS8Q) |
 | 72 | 2022-09-22 | numpy multithreading (how to avoid it), [Shoot the Monkey II](./72_monkey) | [pad](https://hackmd.io/DOBfMN9DSSua1KBT2UBprg) |
 | 71 | 2022-08-25 | [Oh My Git!](https://ohmygit.org/) | [pad](https://hackmd.io/VytiNMFVQ1q6gS8DmSjfLA) |
