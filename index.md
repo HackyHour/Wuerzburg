@@ -14,7 +14,6 @@ Starting from January 2023 we try out the following scheme:
 You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! The December HackyHour will be on **Monday**, December 19 at 5pm in the **CCTB**.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -23,7 +22,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 75 | 2022-12-19 | Seasonal HackyHour 🎅 Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 76 | 2023-01-23 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 75 | 2022-12-19 | Seasonal HackyHour 🎅, [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room/homepage), [Advent of Code challenge of the day](https://adventofcode.com/2022/day/19) | [pad](https://hackmd.io/A_wUjmUtRpm9xXjWBD48Hw) |
 | 74 | 2022-11-24 | eLabFTW MySQL problem | [pad](https://hackmd.io/czVzy_E6TcmIvkDCYZjYxg) |
 | 73 | 2022-10-26 | Julia problem, components of a workstation | [pad](https://hackmd.io/V63YooQGTwmR4etXR3ZS8Q) |
 | 72 | 2022-09-22 | numpy multithreading (how to avoid it), [Shoot the Monkey II](./72_monkey) | [pad](https://hackmd.io/DOBfMN9DSSua1KBT2UBprg) |
