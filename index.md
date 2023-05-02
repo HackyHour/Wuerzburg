@@ -22,7 +22,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 79 | 2023-04-26 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 80 | 2023-05-22 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 79 | 2023-04-26 | Unity, eduroam on T14 G3 (linux generic) | [pad](https://hackmd.io/xBrbJXTfRImNAsPD_yizYA) |
 | 78 | 2023-03-27 | Largest overlapping circle in images | [pad](https://hackmd.io/rJAh04YxQ-mlt7qDxbds2A) |
 | 77 | 2023-02-22 | Solving advent of code challenges with ChatGPT, lock picking | [pad](https://hackmd.io/dbH8DYmyQZ2FJn75mTUUVw) |
 | 76 | 2023-01-23 | [Flappy Bird](https://github.com/Talendar/flappy-bird-gym) algorithm | [pad](https://hackmd.io/mF8shxAXQ6iYDY-0yy6AOQ) |
