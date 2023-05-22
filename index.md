@@ -22,7 +22,11 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 76 | 2023-01-23 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 80 | 2023-05-22 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 79 | 2023-04-26 | Unity, eduroam on T14 G3 (linux generic) | [pad](https://hackmd.io/xBrbJXTfRImNAsPD_yizYA) |
+| 78 | 2023-03-27 | Largest overlapping circle in images | [pad](https://hackmd.io/rJAh04YxQ-mlt7qDxbds2A) |
+| 77 | 2023-02-22 | Solving advent of code challenges with ChatGPT, lock picking | [pad](https://hackmd.io/dbH8DYmyQZ2FJn75mTUUVw) |
+| 76 | 2023-01-23 | [Flappy Bird](https://github.com/Talendar/flappy-bird-gym) algorithm | [pad](https://hackmd.io/mF8shxAXQ6iYDY-0yy6AOQ) |
 | 75 | 2022-12-19 | Seasonal HackyHour 🎅, [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room/homepage), [Advent of Code challenge of the day](https://adventofcode.com/2022/day/19) | [pad](https://hackmd.io/A_wUjmUtRpm9xXjWBD48Hw) |
 | 74 | 2022-11-24 | eLabFTW MySQL problem | [pad](https://hackmd.io/czVzy_E6TcmIvkDCYZjYxg) |
 | 73 | 2022-10-26 | Julia problem, components of a workstation | [pad](https://hackmd.io/V63YooQGTwmR4etXR3ZS8Q) |
