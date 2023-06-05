@@ -9,7 +9,7 @@ The location is alternating between the [CCTB Würzburg](https://www.google.de/m
 # When
 Starting from January 2023 we try out the following scheme:
 - **odd month**: HackyHour is on the fourth **Monday** in the **physics department**
-- **even month**: HackyHour is on the fourth **Wedensday** in the **CCTB**
+- **even month**: HackyHour is on the fourth **Wednesday** in the **CCTB**
 
 You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
