@@ -6,3 +6,5 @@ We also plan to make hands on sessions where we learn and apply new techniques o
 You can also find companions to join a professional or fun project.
 
 For up to date information visit our [website](http://hackyhour.github.io/Wuerzburg/).
+
+If you want to edit the website, modify `index.md` and send a pull request.
