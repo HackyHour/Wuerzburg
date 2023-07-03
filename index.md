@@ -14,6 +14,8 @@ Starting from January 2023 we try out the following scheme:
 You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
+### ❗️ Attention! The next HackyHour is postponed one day to **Tuesday**, July 25
+
 ## Regular re-evaluation
 
 It is time to re-evaluate this schedule. Here is a poll to vote for future start time and week day: https://terminplaner4.dfn.de/gEaqGnisuKOgga9b
