@@ -14,6 +14,10 @@ Starting from January 2023 we try out the following scheme:
 You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
+## Regular re-evaluation
+
+It is time to re-evaluate this schedule. Here is a poll to vote for future start time and week day: https://terminplaner4.dfn.de/gEaqGnisuKOgga9b
+Everyone who plans to come to the HackyHour (at least from time to time) in the future, is welcome to participate in the poll. Results of the poll are discussed in the July HackyHour.
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -22,7 +26,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 81 | 2023-06-28 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 82 | 2023-07-24 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 81 | 2023-06-28 | Q-Learning with Flappy Bird | [pad](https://hackmd.io/BMDOw-OhSnykDgZkOXRyOA) |
 | 80 | 2023-05-22 | Optimizing Flappy Bird algorithm | [pad](https://hackmd.io/rBTGGSB7RgST9aCei54sDA) |
 | 79 | 2023-04-26 | Unity, eduroam on T14 G3 (linux generic) | [pad](https://hackmd.io/xBrbJXTfRImNAsPD_yizYA) |
 | 78 | 2023-03-27 | Largest overlapping circle in images | [pad](https://hackmd.io/rJAh04YxQ-mlt7qDxbds2A) |
