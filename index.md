@@ -7,14 +7,12 @@ We strive to be an open and inclusive community, everyone is welcome! We have a 
 The location is alternating between the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://go.uniwue.de/hackyhour-pad)).
 
 # When
-Starting from January 2023 we try out the following scheme:
-- **odd month**: HackyHour is on the fourth **Monday** in the **physics department**
-- **even month**: HackyHour is on the fourth **Wednesday** in the **CCTB**
+On the fourth Monday of each month at 5pm c.t.
 
 You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### ❗️ Attention! The next HackyHour is postponed one day to **Tuesday**, July 25
+### ❗️ Attention! Due to summer break, the next HackyHour is on Monday, **September** 25
 
 ## Regular re-evaluation
 
