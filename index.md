@@ -28,7 +28,9 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 82 | 2023-07-24 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+
+| 83 | 2023-09-25 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 82 | 2023-07-24 | [Button Men](https://boardgamegeek.com/boardgame/17/button-men) [win probability](82_buttonmen/hannah_vs_karl_2dice.jpeg) ([Hannah](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/hannah.png) vs [Karl](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/karl.png)) | [pad](https://hackmd.io/Ro39AYyxR0eIjvfU604e9Q) |
 | 81 | 2023-06-28 | Q-Learning with Flappy Bird | [pad](https://hackmd.io/BMDOw-OhSnykDgZkOXRyOA) |
 | 80 | 2023-05-22 | Optimizing Flappy Bird algorithm | [pad](https://hackmd.io/rBTGGSB7RgST9aCei54sDA) |
 | 79 | 2023-04-26 | Unity, eduroam on T14 G3 (linux generic) | [pad](https://hackmd.io/xBrbJXTfRImNAsPD_yizYA) |
