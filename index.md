@@ -14,11 +14,6 @@ Usually we order pizza and sit together until roughly 8pm.
 
 ### ❗️ Attention! Due to summer break, the next HackyHour is on Monday, **September** 25
 
-## Regular re-evaluation
-
-It is time to re-evaluate this schedule. Here is a poll to vote for future start time and week day: https://terminplaner4.dfn.de/gEaqGnisuKOgga9b
-Everyone who plans to come to the HackyHour (at least from time to time) in the future, is welcome to participate in the poll. Results of the poll are discussed in the July HackyHour.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
