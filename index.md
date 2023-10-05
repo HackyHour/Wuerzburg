@@ -12,8 +12,6 @@ On the fourth Monday of each month at 5pm c.t.
 You can come without registration but feel free to join the discussion in the [pad](https://go.uniwue.de/hackyhour-pad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### ❗️ Attention! Due to summer break, the next HackyHour is on Monday, **September** 25
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -21,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 83 | 2023-09-25 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 84 | 2023-10-23 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 83 | 2023-09-25 | Library sorting for gene editing, conda problem on Mac | [pad](https://hackmd.io/nKLDNmjkSuigIs3mo0LnwA) |
 | 82 | 2023-07-24 | [Button Men](https://boardgamegeek.com/boardgame/17/button-men) [win probability](82_buttonmen/hannah_vs_karl_2dice.jpeg) ([Hannah](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/hannah.png) vs [Karl](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/karl.png)) | [pad](https://hackmd.io/Ro39AYyxR0eIjvfU604e9Q) |
 | 81 | 2023-06-28 | Q-Learning with Flappy Bird | [pad](https://hackmd.io/BMDOw-OhSnykDgZkOXRyOA) |
 | 80 | 2023-05-22 | Optimizing Flappy Bird algorithm | [pad](https://hackmd.io/rBTGGSB7RgST9aCei54sDA) |
