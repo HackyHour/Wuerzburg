@@ -19,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 84 | 2023-10-23 | Join the discussion &rarr; | [pad](https://go.uniwue.de/hackyhour-pad) |
+| 84 | 2023-11-27 | Join the discussion &rarr; | [pad](https://hackmd.io/7ESdnvu4SPO5Y-x4TOf_bg) |
+| 84 | 2023-10-23 | Evolutionary Games (IsoMatrix), Bundesliga betting game statistics on [couchtipper](https://www.couchtipper.de/) | [pad](https://hackmd.io/xr-a3-2RQLGBQK8YWAd7Tw) |
 | 83 | 2023-09-25 | Library sorting for gene editing, conda problem on Mac | [pad](https://hackmd.io/nKLDNmjkSuigIs3mo0LnwA) |
 | 82 | 2023-07-24 | [Button Men](https://boardgamegeek.com/boardgame/17/button-men) [win probability](82_buttonmen/hannah_vs_karl_2dice.jpeg) ([Hannah](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/hannah.png) vs [Karl](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/karl.png)) | [pad](https://hackmd.io/Ro39AYyxR0eIjvfU604e9Q) |
 | 81 | 2023-06-28 | Q-Learning with Flappy Bird | [pad](https://hackmd.io/BMDOw-OhSnykDgZkOXRyOA) |
