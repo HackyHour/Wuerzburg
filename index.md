@@ -4,12 +4,12 @@ If you want to know how computational tools and code can improve your science or
 We strive to be an open and inclusive community, everyone is welcome! We have a [code of conduct](./CodeOfConduct) that we adhere to.
 
 # Where
-The location is alternating between the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://hackmd.io/7ESdnvu4SPO5Y-x4TOf_bg)).
+The location is alternating between the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://hackmd.io/@iimog/hhpad)).
 
 # When
 On the fourth Monday of each month at 5pm c.t.
 
-You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/7ESdnvu4SPO5Y-x4TOf_bg) if you have any questions beforehand.
+You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/@iimog/hhpad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
 # Topics
@@ -19,7 +19,7 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 85 | 2023-11-27 | Join the discussion &rarr; | [pad](https://hackmd.io/7ESdnvu4SPO5Y-x4TOf_bg) |
+| 85 | 2023-11-27 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
 | 84 | 2023-10-23 | Evolutionary Games (IsoMatrix), Bundesliga betting game statistics on [couchtipper](https://www.couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_84) |
 | 83 | 2023-09-25 | Library sorting for gene editing, conda problem on Mac | [pad](pad_archive/HackyHour_Wuerzburg_83) |
 | 82 | 2023-07-24 | [Button Men](https://boardgamegeek.com/boardgame/17/button-men) [win probability](82_buttonmen/hannah_vs_karl_2dice.jpeg) ([Hannah](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/hannah.png) vs [Karl](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/karl.png)) | [pad](pad_archive/HackyHour_Wuerzburg_82) |
