@@ -41,5 +41,5 @@
  - Explore [Open Alex](https://docs.openalex.org/) API vs. WikiData (Scholia) - Daniel M.?
 
 ## Cross Links
- - [previous pad](https://hackmd.io/3TNFuhpxTfOBm4fh8lV88w)
- - [next pad](https://hackmd.io/OB7XWKdiTJOPNvB9ImgGtw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_68)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_70)

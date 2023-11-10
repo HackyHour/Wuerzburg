@@ -34,11 +34,11 @@
  - Molecule Structures in Blender with [MolecularNode](https://github.com/BradyAJohnston/MolecularNodes)
  - Build a MWE of parallelized plotting and simulation using Makie.jl (e.g. a wave equation ;)) (Andreas)
  - Checkout DrWatson https://juliadynamics.github.io/DrWatson.jl/dev/ a scientifc project assistant in julia :+1:
- - Kali Linux and [RasPwn OS](http://raspwn.org/) &rarr; do we want to do this next time? No
+ - Kali Linux and [RasPwn OS](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_73) &rarr; do we want to do this next time? No
  - Voting Systems → [Arrow Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (example of a voting system: [STV](https://en.wikipedia.org/wiki/Counting_single_transferable_votes#Meek))
  - [Runway](https://runwayml.com/) an online video editor with "AI Magic Tools"
  - Play with Stable Diffusion in [Dream Studio](https://beta.dreamstudio.ai)
  
 ## Cross Links
- - [previous pad](https://hackmd.io/VytiNMFVQ1q6gS8DmSjfLA)
- - [next pad](https://hackmd.io/V63YooQGTwmR4etXR3ZS8Q)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_71)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_73)

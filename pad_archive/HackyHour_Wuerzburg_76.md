@@ -37,5 +37,5 @@ We'll see how this works throughout the winter semester. Then we'll decide wheth
  - [Galactica](https://galactica.org/) - a language model for science (currently not working 2023/01)
 
 ## Cross Links
- - [previous pad](https://hackmd.io/A_wUjmUtRpm9xXjWBD48Hw)
- - [next pad](https://hackmd.io/dbH8DYmyQZ2FJn75mTUUVw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_75)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_77)

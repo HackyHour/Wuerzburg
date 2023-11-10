@@ -87,5 +87,5 @@ wavfile.write("chimera.wav",wav[0],first1000[longest])
 ```
 
 ## Cross Links
- - [previous pad](https://hackmd.io/ZVt5BmQgStyqBdvYK3wVLw)
- - [next pad](https://hackmd.io/FeEXN14sQWuIHJ9W1LrPnQ)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_39)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_41)

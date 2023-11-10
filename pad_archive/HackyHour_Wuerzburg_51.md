@@ -35,5 +35,5 @@ Password: 717543
  - Jonas :computer:
 
 ## Cross Links
- - [previous pad](https://hackmd.io/b45xCHmsS_-N9mh4kCPbEw)
- - [next pad](https://hackmd.io/WoK3wYJvQlqh0S30xKBMXg)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_50)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_52)

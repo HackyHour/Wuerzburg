@@ -52,5 +52,5 @@ We'll see how this works throughout the next couple of months. Then we'll decide
 - concept: GSLS gesamt package
 
 ## Cross Links
- - [previous pad](https://hackmd.io/rBTGGSB7RgST9aCei54sDA)
- - [next pad](https://hackmd.io/Ro39AYyxR0eIjvfU604e9Q)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_80)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_82)

@@ -38,5 +38,5 @@
  - *»add your name here«*
  
 ## Cross Links
- - [previous pad](https://hackmd.io/BytwdinoQAeSDkDTalLwGQ)
- - [next pad](https://hackmd.io/WXe2eb--SDymvD7g84F5ow)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_61)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_63)

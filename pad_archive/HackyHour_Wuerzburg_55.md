@@ -29,5 +29,5 @@
  - Philipp :computer: (Might join later due to Work :-/ i've put my :+1: into parentheses to signify this)
 
 ## Cross Links
- - [previous pad](https://hackmd.io/Akz7_-DiT1e3eaTdcbsO1A)
- - [next pad](https://hackmd.io/iPHiWmkyQ_uCC-NHJTsu_w)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_54)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_56)

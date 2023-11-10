@@ -33,5 +33,5 @@
 
 
 ## Cross Links
- - [previous pad](https://hackmd.io/xtLQjFvETJCMBB--rCddRg)
- - [next pad](https://hackmd.io/m279QLcORoesB20Dyl6Giw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_33)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_35)

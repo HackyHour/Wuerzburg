@@ -25,7 +25,7 @@
  - Max :pizza: 
  
 ## Topic Suggestions
-> Add your suggestions to the list (feel free to also add previously suggested topics, they are *no longer* automatically carried over). Topics are selected after a brief presentation through successive elimination. If someone comes with a real problem, this has priority.
+> Add your suggestions to the list (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_83). Topics are selected after a brief presentation through successive elimination. If someone comes with a real problem, this has priority.
 
  - deRSE24: CfC Now open: https://events.hifis.net/event/994/
  - HackyHour Germany Meetup?
@@ -39,5 +39,5 @@
  
 
 ## Cross Links
- - [previous pad](https://hackmd.io/nKLDNmjkSuigIs3mo0LnwA)
- - [next pad](https://hackmd.io/7ESdnvu4SPO5Y-x4TOf_bg)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_83)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_85)

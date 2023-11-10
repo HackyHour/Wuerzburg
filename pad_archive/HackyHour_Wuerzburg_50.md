@@ -32,5 +32,5 @@
  - Martina :computer:
 
 ## Cross Links
- - [previous pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ)
- - [next pad](https://hackmd.io/ye4RC_FWTN2ehxkfT9cusQ)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_49)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_51)

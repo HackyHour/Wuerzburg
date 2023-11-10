@@ -69,5 +69,5 @@ Everyone who plans to come to the HackyHour (at least from time to time) in the 
 - concept: GSLS gesamt package
 
 ## Cross Links
- - [previous pad](https://hackmd.io/BMDOw-OhSnykDgZkOXRyOA)
- - [next pad](https://hackmd.io/nKLDNmjkSuigIs3mo0LnwA)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_81)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_83)

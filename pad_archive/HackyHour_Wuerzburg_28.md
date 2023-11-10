@@ -26,5 +26,5 @@
  - Philipp :pizza:
 
 ## Cross Links
- - [previous pad](https://hackmd.io/zPwRW4wqQquRjQTRC4T6Ew)
- - [next pad](https://hackmd.io/cfD5NJJvR8q2f76eBYzKMw#)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_27)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_29)

@@ -20,5 +20,5 @@
  - Florian
 
 ## Cross Links
- - [previous pad](https://hackmd.io/did0TvZBR9marwU6gz-e3w)
- - [next pad](https://hackmd.io/xtLQjFvETJCMBB--rCddRg)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_31)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_33)

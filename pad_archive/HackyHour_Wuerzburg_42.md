@@ -17,7 +17,7 @@
  - Data Visualization [data2viz](https://www.data-to-viz.com/)
  - revisit GANs [maybe with this tutorial](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f)
  - [Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
- - [Hacking Neural Networks](https://github.com/Kayzaks/HackingNeuralNetworks)  (I am interested but cant be there this date, would be nice to move it to next hackyhour)
+ - [Hacking Neural Networks](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_43)
  - [Seq — a language for bioinformatics](https://github.com/seq-lang/seq)
  - [Convolutional Neural Networks](https://www.cs.ryerson.ca/~aharley/vis/conv/)
  - Adopt [n2n pizza bot](https://code.nerd2nerd.org/n2n/pizzabot)
@@ -32,5 +32,5 @@
 
 
 ## Cross Links
- - [previous pad](https://hackmd.io/FeEXN14sQWuIHJ9W1LrPnQ)
- - [next pad](https://hackmd.io/K1AhJ1PrSW-lY75-hUxYxQ)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_41)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_43)

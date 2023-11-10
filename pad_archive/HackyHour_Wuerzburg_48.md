@@ -24,5 +24,5 @@
  - Simon (probably) :pizza:
 
 ## Cross Links
- - [previous pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw)
- - [next pad](https://hackmd.io/sAfW0asWQKG5cNgQ4y_WKQ)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_47)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_49)

@@ -28,5 +28,5 @@ We should use our online nicknames for the virtual hackyhour meeting
 
 
 ## Cross Links
- - [previous pad](https://hackmd.io/_bc_KWTEReuZUQm0h5Dxnw)
- - [next pad](https://hackmd.io/4mPInEJSQy-BoTmnA2ePEw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_42)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_44)

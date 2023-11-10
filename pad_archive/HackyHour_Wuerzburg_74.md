@@ -2,7 +2,7 @@
 
 ## Live
  - **When:** **Thursday**, November 24<sup>th</sup>, 2022 at 5:00pm
- - **Where:** <!-- Physics Department - Seminar Room SE2 (Note: Moved to SE2!! this is next to SE1!!) in [building P1](https://wueaddress.uni-wuerzburg.de/search/map/3612). --> [CCTB](https://www.google.de/maps/place/Zentrum+f%C3%BCr+Computergest%C3%BCtzte+und+Theoretische+Biologie+(CCTB),+Universit%C3%A4t+W%C3%BCrzburg/@49.7850748,9.9720102,18z/data=!3m1!4b1!4m5!3m4!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094!8m2!3d49.7849749!4d9.9729537) 
+ - **Where:** <!-- Physics Department - Seminar Room SE2 (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_75) 
  - **Info:** [HackyHour Website](http://hackyhour.github.io/Wuerzburg/)
  - :vertical_traffic_light:  If possible, we will be meeting live. Please only come if you are vaccinated, recovered or negatively tested (3G rules).
 
@@ -50,5 +50,5 @@ Because of a :soccer: match between :flag-de: and :flag-jp: we already have an e
  - Open discussion: What is a good pc name? 
 
 ## Cross Links
- - [previous pad](https://hackmd.io/V63YooQGTwmR4etXR3ZS8Q)
- - [next pad](https://hackmd.io/A_wUjmUtRpm9xXjWBD48Hw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_73)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_75)

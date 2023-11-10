@@ -27,5 +27,5 @@
  - Rick :pizza:
 
 ## Cross Links
- - [previous pad](https://hackmd.io/KRfFvvaBTL6zdRj__VaJMg)
- - [next pad](https://hackmd.io/SZzFRSn0SiO04GPFjOQwCA)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_38)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_40)

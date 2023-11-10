@@ -23,5 +23,5 @@
  - I am out :'( (FF), but HF! Thanks
  
 ## Cross Links
- - [previous pad](https://hackmd.io/aLSet_E6ShSNmTjxftWWPg#)
- - [next pad](https://hackmd.io/zPwRW4wqQquRjQTRC4T6Ew#)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_25)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_27)

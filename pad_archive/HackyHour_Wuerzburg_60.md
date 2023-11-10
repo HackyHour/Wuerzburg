@@ -35,5 +35,5 @@
  - Ugochukwu &rarr; it is live again this month. If you have a question or like to discuss something, feel free to drop me (Markus) an email and we can zoom.
 
 ## Cross Links
- - [previous pad](https://hackmd.io/ULt-hKyZSXSMi2kGGNdYPg)
- - [next pad](https://hackmd.io/BytwdinoQAeSDkDTalLwGQ)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_59)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_61)

@@ -27,5 +27,5 @@
  - Rick ~ 6:45 pm
 
 ## Cross Links
- - [previous pad](https://hackmd.io/GGk5HufaQ3GRDT1ou7J-Tg)
- - [next pad](https://hackmd.io/BkPngKrhTgS8vcVfnJh-fw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_45)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_47)

@@ -44,5 +44,5 @@ We'll see how this works throughout the winter semester. Then we'll decide wheth
  - shoot the monkey interactive (babylonjs) in vr (unity) or with a molecule/virus (blender molecularnode) 
 
 ## Cross Links
- - [previous pad](https://hackmd.io/mF8shxAXQ6iYDY-0yy6AOQ)
- - [next pad](https://hackmd.io/rJAh04YxQ-mlt7qDxbds2A)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_76)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_78)

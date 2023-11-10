@@ -23,5 +23,5 @@
  - Flo
 
 ## Cross Links
- - [previous pad](https://hackmd.io/j7FB6IPeTKqytS1Zp24keA)
- - [next pad](https://hackmd.io/GjxmnEG8QVyMWEaxfiT6GQ)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_46)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_48)

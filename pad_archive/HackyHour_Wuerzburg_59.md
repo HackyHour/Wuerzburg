@@ -33,7 +33,7 @@
 - Ugochukwu will join remotely:computer:
 
 ## Cross Links
- - [previous pad](https://hackmd.io/IgyMLwQqS9CpXWGoo8NYHA)
- - [next pad](https://hackmd.io/6NEAgYksTOauc0e32xzqXg)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_58)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_60)
 
  

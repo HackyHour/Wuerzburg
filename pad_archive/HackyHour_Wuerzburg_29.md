@@ -24,5 +24,5 @@
  - Mr. Joyvalley :pineapple::pizza:
 
 ## Cross Links
- - [previous pad](https://hackmd.io/-I6i6CsKRxqv1gyrLRcHVg)
- - [next pad](https://hackmd.io/Q1bZDBcfS5uPTf5b0hZrmg)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_28)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_30)

@@ -31,5 +31,5 @@
  - Play with the data from Numerai https://numer.ai/ (Tilman)
 
 ## Cross Links
- - [previous pad](https://hackmd.io/eeIkuJx-TECX2rMU07CS5w)
- - [next pad](https://hackmd.io/Obubpd9RQ6W1rAWjyk8B0g)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_64)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_66)

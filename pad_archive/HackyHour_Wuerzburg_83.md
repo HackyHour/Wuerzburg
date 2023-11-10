@@ -26,7 +26,7 @@ So we are back at a fixed schedule. **HackyHour always happens on the 4th Monday
  - Sascha :pizza:
  
 ## Topic Suggestions
-> Add your suggestions to the list (feel free to also add previously suggested topics, they are *no longer* automatically carried over). Topics are selected after a brief presentation through successive elimination. If someone comes with a real problem, this has priority.
+> Add your suggestions to the list (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_82). Topics are selected after a brief presentation through successive elimination. If someone comes with a real problem, this has priority.
 
 ### Real problems
 - library sorting (Elisabeth)
@@ -51,5 +51,5 @@ So we are back at a fixed schedule. **HackyHour always happens on the 4th Monday
 - deRSE24: https://derse24.physik.uni-wuerzburg.de/
 
 ## Cross Links
- - [previous pad](https://hackmd.io/Ro39AYyxR0eIjvfU604e9Q)
- - [next pad](https://hackmd.io/xr-a3-2RQLGBQK8YWAd7Tw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_82)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_84)

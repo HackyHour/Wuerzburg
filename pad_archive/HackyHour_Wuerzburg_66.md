@@ -44,5 +44,5 @@
  - Blender, physics engine, [Shoot the Monkey](https://www.youtube.com/watch?v=0jGZnMf3rPo), continued (exploding monkey :hear_no_evil: :exploding_head: ) &rarr; we need Kerstin
 
 ## Cross Links
- - [previous pad](https://hackmd.io/dV1zluhRQHiCvCHwOFb7rw)
- - [next pad](https://hackmd.io/dtsjvzjfQYexzvLIrGDcZw)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_65)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_67)

@@ -52,5 +52,5 @@ We'll determine the new day and time based on these results and the discussion i
  - Michaela :person_doing_cartwheel:
  
 ## Cross Links
- - [previous pad](https://hackmd.io/6NEAgYksTOauc0e32xzqXg)
- - [next pad](https://hackmd.io/nLb5WktASq6AYVqZV1Bv2A)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_60)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_62)
