@@ -12,8 +12,6 @@ On the fourth Monday of each month at 5pm c.t.
 You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/@iimog/hhpad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-## ⚠️  Attention! The Decmeber HackyHour happens on **Tuesday**, December **19** because of holiday season. There will be mulled wine.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -21,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 85 | 2023-12-19 | Seasonal HackyHour 🎅, Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 87 | 2024-01-22 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 86 | 2023-12-19 | Seasonal HackyHour 🎅, [Tetris on pyboy](./86_tetris/tetris.py) | [pad](pad_archive/HackyHour_Wuerzburg_86) |
 | 85 | 2023-11-27 | Solving multiple [rankk.org](https://rankk.org) challenges | [pad](pad_archive/HackyHour_Wuerzburg_85) |
 | 84 | 2023-10-23 | Evolutionary Games (IsoMatrix), Bundesliga betting game statistics on [couchtipper](https://www.couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_84) |
 | 83 | 2023-09-25 | Library sorting for gene editing, conda problem on Mac | [pad](pad_archive/HackyHour_Wuerzburg_83) |
