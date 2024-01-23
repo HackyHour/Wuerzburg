@@ -19,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 87 | 2024-01-22 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 88 | 2024-02-26 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 87 | 2023-01-22 | Shader to render the Mandelbrot set with [wgpu](https://wgpu.rs/) | [pad](pad_archive/HackyHour_Wuerzburg_87) |
 | 86 | 2023-12-19 | Seasonal HackyHour 🎅, [Tetris on pyboy](./86_tetris/tetris.py) | [pad](pad_archive/HackyHour_Wuerzburg_86) |
 | 85 | 2023-11-27 | Solving multiple [rankk.org](https://rankk.org) challenges | [pad](pad_archive/HackyHour_Wuerzburg_85) |
 | 84 | 2023-10-23 | Evolutionary Games (IsoMatrix), Bundesliga betting game statistics on [couchtipper](https://www.couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_84) |
