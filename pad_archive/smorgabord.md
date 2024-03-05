@@ -1,6 +1,22 @@
 # HackyHour Ideas Smorgasbord
 
+[![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
+
+## 2024
+ - [SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/) + [WhatTheDuck](https://whattheduck.incentius.com/)
+ - Generate synthetic data for linear model with two (binary) explanatory variables (A and B) and different real effects (only A has an impact, both A and B have an impact, the impact of A depends on B) - then look at the estimated coefficients (and their statistical significance) when fitting `~ A`, `~ B`, `~ A + B`, `~ A + B + A:B` - maybe use [drawdata](https://drawdata.xyz/)
+ - Network simulation with [Filius](https://www.lernsoftware-filius.de/Startseite)
+ - [wgpu](https://wgpu.rs) - portable graphics library in rust, also running in the browser - maybe checkout [Learn wgpu](https://sotrh.github.io/learn-wgpu/#what-is-wgpu)
+ - Guess the [correlation](https://www.guessthecorrelation.com/), dice, hausdorff, p-values (e.g. 2-sample t-test (maybe different difficulties: bar chart, bar + SE, boxplot, jitter)), maybe reverse (draw something with a given dice/hausdorff/p-value) ... (maybe using [NES.css](https://nostalgic-css.github.io/NES.css/))
+ - Visualize [OpenAlex](https://openalex.org/) data with [VOSviewer](https://www.vosviewer.com/)
+
 ## 2023
+ - [Wikifunctions](https://www.wikifunctions.org)
+ - Building an interactive scratch map (possibly with AoE-style fog of war, [further inspiration](https://www.youtube.com/watch?v=sLqXFF8mlEU&t=1414s))
+ - [AI playing Pokemon on a python Game Boy emulator](https://www.youtube.com/watch?v=DcYLT37ImBY)
+ - [git commit folders](https://github.com/jvns/git-commit-folders)
+ - [Nushell](https://www.nushell.sh/) - A new type of shell (related: warp, fig, hyper)
+ - formal mathematical proofs with [LEAN](https://leanprover-community.github.io/) ([gamified learning](https://adam.math.hhu.de/#/))
  - Automatically [translating webpages of the IT](https://www.rz.uni-wuerzburg.de/en/services/) from German to English (any other) and hosting automatically on a wiki? (remember the accessibility aspect here...)
  - [APL](https://tryapl.org) "an array-oriented programming language that will change the way you think about problems and data" - solve some [example problems](https://problems.tryapl.org/). Example: `+/(⍳6)∘.=?10000⍴6` gives the frequency of each number for 10000 dice throws.
  - [Elicit](https://elicit.com/) - The AI Research Assistant
