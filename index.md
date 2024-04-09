@@ -19,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 89 | 2024-03-25 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 90 | 2024-04-22 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 89 | 2024-03-25 | Adding a GUI (egui) to a [wgpu](https://wgpu.rs/) application | [pad](pad_archive/HackyHour_Wuerzburg_89) |
 | 88 | 2024-02-26 | Visualizations for disecting compact hyperbolic graphs along incontractible loops | [pad](pad_archive/HackyHour_Wuerzburg_88) |
 | 87 | 2023-01-22 | Shader to render the Mandelbrot set with [wgpu](https://wgpu.rs/) | [pad](pad_archive/HackyHour_Wuerzburg_87) |
 | 86 | 2023-12-19 | Seasonal HackyHour 🎅, [Tetris on pyboy](./86_tetris/tetris.py) | [pad](pad_archive/HackyHour_Wuerzburg_86) |
