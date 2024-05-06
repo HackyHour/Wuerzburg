@@ -3,7 +3,15 @@
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2024
+ - Server (performance/load) monitoring (e.g. with [sysstat](https://sysstat.github.io/), [InfluxDB](https://www.influxdata.com/), ...)
+ - [Finding and Fixing Standard Misconceptions About Program Behavior](https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html), [SMoL Tutor](https://script.google.com/macros/s/AKfycbwXSAkyTGGyYHyM1YTY_UqLfpoXIGMQI3zfCIMjxC2pd9YbEIxhzyf0njwW5rmqPP4lYg/exec)
+ - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
  - [SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/) + [WhatTheDuck](https://whattheduck.incentius.com/)
+ - Programming Games ([list of suggestions](https://x-team.com/blog/coding-games/amp/)) e.g.
+    - [Terminal](https://terminal.c1games.com/)
+    - [CodeCombat](https://codecombat.com/)
+    - [Flexbox Defense](http://www.flexboxdefense.com/)
+    - [CSS Diner](https://flukeout.github.io/)
  - Generate synthetic data for linear model with two (binary) explanatory variables (A and B) and different real effects (only A has an impact, both A and B have an impact, the impact of A depends on B) - then look at the estimated coefficients (and their statistical significance) when fitting `~ A`, `~ B`, `~ A + B`, `~ A + B + A:B` - maybe use [drawdata](https://drawdata.xyz/)
  - Network simulation with [Filius](https://www.lernsoftware-filius.de/Startseite)
  - [wgpu](https://wgpu.rs) - portable graphics library in rust, also running in the browser - maybe checkout [Learn wgpu](https://sotrh.github.io/learn-wgpu/#what-is-wgpu)
