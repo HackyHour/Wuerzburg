@@ -41,5 +41,5 @@ It is usually undesired to share solutions publicly, as it spoils the fun for ot
 Therefore, we created a [private repository](https://github.com/HackyHour/Wuerzburg_ChallengeClub) where we collect our joint solutions. Just tell [Markus](https://github.com/iimog) if you want access.
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_88)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_90)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_89)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_91)
