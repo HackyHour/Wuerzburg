@@ -19,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 91 | 2024-05-27 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 92 | 2024-06-24 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 91 | 2024-05-27 | Debugging GPU-related hardware issues | [pad](https://hackmd.io/@iimog/hhpad) |
 | 90 | 2024-04-22 | Interactive documentation with [codapi](https://codapi.org/) | [pad](pad_archive/HackyHour_Wuerzburg_90) |
 | 89 | 2024-03-25 | Adding a GUI (egui) to a [wgpu](https://wgpu.rs/) application | [pad](pad_archive/HackyHour_Wuerzburg_89) |
 | 88 | 2024-02-26 | Visualizations for disecting compact hyperbolic graphs along incontractible loops | [pad](pad_archive/HackyHour_Wuerzburg_88) |
