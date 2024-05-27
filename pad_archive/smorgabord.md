@@ -3,6 +3,10 @@
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2024
+ - Backup tools ([restic](https://restic.net/), [BorgBackup](https://www.borgbackup.org/), **»add more«**)
+ - Try to hack some basic Vulnhub VMs [suggestions with walkthroughs](https://www.heise.de/select/ct/2023/6/softlinks/ynzu?wt_mc=pred.red.ct.ct062023.144.softlink.softlink)
+ - [CryptoHack](https://cryptohack.org/)
+ - [The Hippocratic License](https://firstdonoharm.dev/)
  - Server (performance/load) monitoring (e.g. with [sysstat](https://sysstat.github.io/), [InfluxDB](https://www.influxdata.com/), ...)
  - [Finding and Fixing Standard Misconceptions About Program Behavior](https://blog.brownplt.org/2024/04/12/behavior-misconceptions.html), [SMoL Tutor](https://script.google.com/macros/s/AKfycbwXSAkyTGGyYHyM1YTY_UqLfpoXIGMQI3zfCIMjxC2pd9YbEIxhzyf0njwW5rmqPP4lYg/exec)
  - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
