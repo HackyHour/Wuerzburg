@@ -19,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 93 | 2024-07-22 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 94 | 2024-08-26 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 93 | 2024-07-22 | Getting into Linux, backup/snapshot workflows and tools | [pad](pad_archive/HackyHour_Wuerzburg_93) |
 | 92 | 2024-06-24 | Debugging data consistency errors, fix bootloader, poster design | [pad](pad_archive/HackyHour_Wuerzburg_92) |
 | 91 | 2024-05-27 | Debugging GPU-related hardware issues | [pad](pad_archive/HackyHour_Wuerzburg_91) |
 | 90 | 2024-04-22 | Interactive documentation with [codapi](https://codapi.org/) | [pad](pad_archive/HackyHour_Wuerzburg_90) |
