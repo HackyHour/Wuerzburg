@@ -6,26 +6,36 @@ import numpy as np
 import matplotlib.pylab as plt
 import skimage as ski
 
-img = np.ones((600, 800, 3), dtype=np.uint8) * 255
-rr,cc = ski.draw.disk((300, 400), 150, shape=img.shape)
-img[rr, cc, 2] = 0
-rr,cc = ski.draw.disk((350, 450), 200, shape=img.shape)
-img[rr, cc, 1] = 0
+def generate():
+	x = np.random.randint(100, 500, 2)
+	y = np.random.randint(100, 700, 2)
+	r = np.random.randint(50, 250, 2)
+	#e = np.random.randint(0, 50, 2)
+	img = np.ones((600, 800, 3), dtype=np.uint8) * 255
+	rr,cc = ski.draw.disk((x[0], y[0]), r[0], shape=img.shape)
+	img[rr, cc, 2] = 0
+	rr,cc = ski.draw.disk((x[1], y[1]), r[1], shape=img.shape)
+	img[rr, cc, 1] = 0
 
-m1 = img[:, :, 2] == 0
-m2 = img[:, :, 1] == 0
-intersect = np.logical_and(m1, m2)
-dice = 2*np.sum(intersect) / (np.sum(m1) + np.sum(m2))
-
+            
+	m1 = img[:, :, 2] == 0
+	m2 = img[:, :, 1] == 0
+	intersect = np.logical_and(m1, m2)
+	dice = 2*np.sum(intersect) / (np.sum(m1) + np.sum(m2))
+	if dice == 0:
+		img, dice = generate()
+	return img, dice
 
 gguess = 50
-
+dice = 0
 app, rt = fast_app()
 
 @matplotlib2fasthtml
 def generate_chart():
     # plotdata = [np.random.exponential(1) for _ in range(num_points)]
     #plt.plot(range(len(plotdata)), plotdata)
+    global dice
+    img, dice = generate()
     plt.imshow(img)
 
 @app.get("/")
