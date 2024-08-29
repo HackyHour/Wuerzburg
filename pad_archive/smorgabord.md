@@ -3,6 +3,10 @@
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2024
+ - Get pictures from GameBoy Camera to PC - [how to](https://www.gameboymaniac.com/how-to-tranfer-photos-from-the-game-boy-camera-to-your-computer/)
+ - *Alice wants Bob but Bob wants Charlie...* (distributing students into classes as a graph partitioning or via chat gpt (or both?)), maybe create a challenge or two for the DCCW (include exclusions)
+ - Add keybindings to [PyBoy](https://github.com/Baekalfen/PyBoy) to toggle between manual and automatic play (Tetris example)
+ - [marimo](https://marimo.io/) a next-generation Python notebook
  - Backup tools ([restic](https://restic.net/), [BorgBackup](https://www.borgbackup.org/), **»add more«**)
  - Try to hack some basic Vulnhub VMs [suggestions with walkthroughs](https://www.heise.de/select/ct/2023/6/softlinks/ynzu?wt_mc=pred.red.ct.ct062023.144.softlink.softlink)
  - [CryptoHack](https://cryptohack.org/)
