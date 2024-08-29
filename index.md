@@ -19,7 +19,9 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 94 | 2024-08-26 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 96 | 2024-09-23 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 95 | 2024-09-10 | Extraordinary HackyHour: adapting the gameplay of [Geographical Adventures](https://github.com/SebLague/Geographical-Adventures/) | [pad](https://hackmd.io/@iimog/hhpad) |
+| 94 | 2024-08-26 | Fix keyboard short-cuts via VNC, create [a dice score guessing game](94_fasthtml/main.py) via [FastHTML](https://www.fastht.ml/) | [pad](pad_archive/HackyHour_Wuerzburg_94) |
 | 93 | 2024-07-22 | Getting into Linux, backup/snapshot workflows and tools | [pad](pad_archive/HackyHour_Wuerzburg_93) |
 | 92 | 2024-06-24 | Debugging data consistency errors, fix bootloader, poster design | [pad](pad_archive/HackyHour_Wuerzburg_92) |
 | 91 | 2024-05-27 | Debugging GPU-related hardware issues | [pad](pad_archive/HackyHour_Wuerzburg_91) |
