@@ -26,14 +26,11 @@ def generate():
 		img, dice = generate()
 	return img, dice
 
-gguess = 50
 dice = 0
 app, rt = fast_app()
 
 @matplotlib2fasthtml
 def generate_chart():
-    # plotdata = [np.random.exponential(1) for _ in range(num_points)]
-    #plt.plot(range(len(plotdata)), plotdata)
     global dice
     img, dice = generate()
     plt.imshow(img)
@@ -41,46 +38,43 @@ def generate_chart():
 @app.get("/")
 def homepage():
     return Div(
-        Div("Fill me by clicking the button below", id="chart"),
-	H3("Move the slider to change the graph"),
-	Input(name="guess", type="range", min="0", max="100", value="50", get=slider_value, hx_target="#slider"),
-	H3(id="slider"),
-	Div(id="check_div"),
-	Div(Button(
-            "Check",
-            # type="range",
-            # min="1", max="10", value="1",
-            get=check, hx_target="#check_div",
-            name='button'),
-	Button(
-            "generate",
-            # type="range",
-            # min="1", max="10", value="1",
-            get=update_chart, hx_target="#chart",
-            name='button')),
+        H3("Guess the Sørensen–Dice coefficient for the two circles"),
+        Div(update_chart(), id="chart"),
+        Form(
+            Input(name="guess", type="range", min="0", max="1", value="0.5", step="0.01", oninput="this.nextElementSibling.value = this.value", style="max-width: 800px"),
+            Output(0.5, id="slider_value"), # Show slider value as text (updated via JS)
+            Br(),
+            Button(
+                "Check",
+                name='button'
+            ),
+            get=check,
+            hx_target="#check_div"
+        ),
+        H3(id="slider"),
+        Div(id="check_div"),
+        Div(
+            Button(
+                "Generate new chart",
+                get=update_chart, hx_target="#chart",
+                name='button',
+                onclick="document.getElementById('check_div').innerText = '';" # Hide previous check result
+            )
+        ),
     )
-
-@app.get("/slider_value")
-def slider_value(guess: int):
-    global gguess
-    gguess = guess
-    return H3(f"Slider value: {guess/100}")
 
 @app.get("/update_charts")
 def update_chart():
     return Div(
         generate_chart(),
-        #P(f"Dice: {dice}"),
-        #P(f"You are {np.abs(dice*100 - gguess)}% off")
-)
+    )
 
 @app.get("/check")
-def check():
-    off = np.abs(dice.round(2)*100 - gguess)
+def check(guess: float):
+    off = np.abs(dice.round(2) - guess)
     return Div(
         P(f"Dice: {dice.round(2)}"),
-        P(f"You are {off.round(2)}% off")
-)
-
+        P(f"You are {off.round(2)} off")
+    )
 
 serve()
