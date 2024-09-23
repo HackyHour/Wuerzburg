@@ -95,6 +95,13 @@ def __(
         - sort {pandas_sort:.2f}s : {polars_sort:.2f}s
         - pandas problem: mean with non-numeric columns causes an error (solution: `numeric_only`)
         - polars problem: reading xz directly does not work out of the box (solution: unpack before), column format guessing does not use enough columns for this dataset (zc column is guessed as int but is actually float, solution: shuffle csv)
+
+        Files erstellt mittels
+        ```bash
+        wget https://github.com/BioMeDS/mudRapp-seq/raw/refs/heads/main/analysis/spot_detection/seq_2nt/all_spots.tsv.xz
+        unxz --keep all_spots.tsv.xz
+        tsv-sample -H all_spots.tsv >all_spots_shuffle.tsv
+        ```
         """
     )
     return
