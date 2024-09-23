@@ -3,3 +3,4 @@
 _site
 .ipynb_checkpoints
 tmp
+__pycache__
