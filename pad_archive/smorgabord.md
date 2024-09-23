@@ -3,6 +3,12 @@
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2024
+ - Version control with [jujutsu](https://martinvonz.github.io/jj/latest/tutorial/) - go through tutorial. Is it worth the effort to learn it?
+ - Add game play, [style](https://nostalgic-css.github.io/NES.css/), OAuth and Leaderboard to Guess Dice Score game using [FastHTML](https://www.fastht.ml/)
+ - [versatiles](https://versatiles.org/) - FLOSS (vector) map tiles, [ccc talk](https://www.youtube.com/watch?v=8A51WkJ5S8I)
+ - [openalexR](https://docs.ropensci.org/openalexR/) - possible questions: is there a co-author path from Flo to Markus? What are the Erdős numbers of the participants? What fraction of my citations are self-citations?
+ - [ORKG - Open Research Knowledge Graph](https://orkg.org/) - what is it good for?
+ - controlling RGB devices via [OpenRGB](https://openrgb.org/) or [python](https://github.com/jath03/openrgb-python) (e.g. program Whac-A-Mole :hammer:)
  - Get pictures from GameBoy Camera to PC - [how to](https://www.gameboymaniac.com/how-to-tranfer-photos-from-the-game-boy-camera-to-your-computer/)
  - *Alice wants Bob but Bob wants Charlie...* (distributing students into classes as a graph partitioning or via chat gpt (or both?)), maybe create a challenge or two for the DCCW (include exclusions)
  - Add keybindings to [PyBoy](https://github.com/Baekalfen/PyBoy) to toggle between manual and automatic play (Tetris example)
@@ -48,7 +54,7 @@
  - shoot the monkey interactive (babylonjs) in vr (unity) or with a molecule/virus (blender molecularnode)
  - Reinforcement Learning with [Gym](https://www.gymlibrary.dev/) or [AI Birds](http://aibirds.org/) 
  - [Runway](https://runwayml.com/) an online video editor with "AI Magic Tools"
- - [Galactica](https://galactica.org/) - a language model for science (currently not working 2023/01)
+ - [Galactica](https://galactica.org/) - a language model for science (currently not working 2023/01 → apparently [turned off after 3 days](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/))
  - Benchmark CephFS
  - Finish [Oh My Git!](https://ohmygit.org/)
 
