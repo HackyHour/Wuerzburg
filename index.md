@@ -12,6 +12,10 @@ On the fourth Monday of each month at 5pm c.t.
 You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/@iimog/hhpad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
+## Announcement
+
+The HackyHour with index 99 is coming up on December 16, 2024. So this will be a seasonal and anniversary HackyHour with mulled wine at the CCTB.
+
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -19,7 +23,9 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 97 | 2024-10-28 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 99 | 2024-12-16 | Seasonal and anniversary HackyHour 🎄🎉 | |
+| 98 | 2024-11-25 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 97 | 2024-10-28 | Reading nfc student cards | [pad](pad_archive/HackyHour_Wuerzburg_97) |
 | 96 | 2024-09-23 | polars vs pandas in marimo and rust | [pad](pad_archive/HackyHour_Wuerzburg_96) |
 | 95 | 2024-09-10 | Extraordinary HackyHour: adapting the gameplay of [Geographical Adventures](https://github.com/SebLague/Geographical-Adventures/) | [pad](pad_archive/HackyHour_Wuerzburg_95) |
 | 94 | 2024-08-26 | Fix keyboard short-cuts via VNC, create [a dice score guessing game](94_fasthtml/main.py) via [FastHTML](https://www.fastht.ml/) | [pad](pad_archive/HackyHour_Wuerzburg_94) |
