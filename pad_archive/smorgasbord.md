@@ -3,6 +3,11 @@
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2024
+ - Billy Bass goes ChatGPT :fish: 
+ - [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) :unicorn_face: 
+ - [phyphox](https://phyphox.org/de/home-de/) - smartphone as mobile lab :iphone: :chart_with_upwards_trend:
+ - Tessellating non-orientable manifolds such as the Möbius strip
+ - Embedding the Möbius strip in $\mathbb{R}^3$
  - Version control with [jujutsu](https://martinvonz.github.io/jj/latest/tutorial/) - go through tutorial. Is it worth the effort to learn it?
  - Add game play, [style](https://nostalgic-css.github.io/NES.css/), OAuth and Leaderboard to Guess Dice Score game using [FastHTML](https://www.fastht.ml/)
  - [versatiles](https://versatiles.org/) - FLOSS (vector) map tiles, [ccc talk](https://www.youtube.com/watch?v=8A51WkJ5S8I)
