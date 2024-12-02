@@ -23,8 +23,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 99 | 2024-12-16 | Seasonal and anniversary HackyHour 🎄🎉 | |
-| 98 | 2024-11-25 | Join the discussion &rarr; | [pad](https://hackmd.io/@iimog/hhpad) |
+| 99 | 2024-12-16 | Seasonal and anniversary HackyHour 🎄🎉 | [pad](https://hackmd.io/@iimog/hhpad)|
+| 98 | 2024-11-25 | Fix R script for qPCR analysis | [pad](pad_archive/HackyHour_Wuerzburg_97) |
 | 97 | 2024-10-28 | Reading nfc student cards | [pad](pad_archive/HackyHour_Wuerzburg_97) |
 | 96 | 2024-09-23 | polars vs pandas in marimo and rust | [pad](pad_archive/HackyHour_Wuerzburg_96) |
 | 95 | 2024-09-10 | Extraordinary HackyHour: adapting the gameplay of [Geographical Adventures](https://github.com/SebLague/Geographical-Adventures/) | [pad](pad_archive/HackyHour_Wuerzburg_95) |
