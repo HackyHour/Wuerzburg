@@ -30,5 +30,5 @@
  - *»add your name here«*
  
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_63)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_65)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_063)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_065)

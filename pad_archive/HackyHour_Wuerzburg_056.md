@@ -30,5 +30,5 @@
  - Rick :computer: (maybe)
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_55)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_57)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_055)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_057)

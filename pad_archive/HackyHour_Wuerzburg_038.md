@@ -23,5 +23,5 @@
  - 
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_37)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_39)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_037)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_039)

@@ -32,5 +32,5 @@ Password: 336687
  - Jonas :computer:
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_52)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_54)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_052)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_054)

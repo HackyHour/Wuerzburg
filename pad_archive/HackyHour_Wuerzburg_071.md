@@ -38,5 +38,5 @@
  - Voting Systems → [Arrow Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (example of a voting system: [STV](https://en.wikipedia.org/wiki/Counting_single_transferable_votes#Meek))
  
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_70)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_72)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_070)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_072)

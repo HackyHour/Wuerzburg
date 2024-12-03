@@ -37,5 +37,5 @@ We'll see how this works throughout the winter semester. Then we'll decide wheth
  - OpenStreetMap data as networkx in python with [OSMnx](https://osmnx.readthedocs.io/en/stable/)
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_77)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_79)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_077)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_079)

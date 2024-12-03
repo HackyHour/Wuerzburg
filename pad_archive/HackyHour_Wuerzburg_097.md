@@ -47,8 +47,8 @@ It is usually undesired to share solutions publicly, as it spoils the fun for ot
 Therefore, we created a [private repository](https://github.com/HackyHour/Wuerzburg_ChallengeClub) where we collect our joint solutions. Just tell [Markus](https://github.com/iimog) if you want access.
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_96)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_98)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_096)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_098)
 
 ## APDU REINERSCT
 0x00 0xA4 0x00 0x0C 0x02 0x3F 0x00

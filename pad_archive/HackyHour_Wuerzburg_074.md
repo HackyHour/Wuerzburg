@@ -2,7 +2,7 @@
 
 ## Live
  - **When:** **Thursday**, November 24<sup>th</sup>, 2022 at 5:00pm
- - **Where:** <!-- Physics Department - Seminar Room SE2 (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_75) 
+ - **Where:** <!-- Physics Department - Seminar Room SE2 (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_075) 
  - **Info:** [HackyHour Website](http://hackyhour.github.io/Wuerzburg/)
  - :vertical_traffic_light:  If possible, we will be meeting live. Please only come if you are vaccinated, recovered or negatively tested (3G rules).
 
@@ -50,5 +50,5 @@ Because of a :soccer: match between :flag-de: and :flag-jp: we already have an e
  - Open discussion: What is a good pc name? 
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_73)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_75)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_073)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_075)

@@ -26,7 +26,7 @@
  - AutoML ([PennAI](https://epistasislab.github.io/pennai))
  - [Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
  - [Open Legal Data](http://openlegaldata.io/), [Offene Gesetze](https://offenegesetze.de/)
- - [Hacking Neural Networks](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_42)
+ - [Hacking Neural Networks](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_042)
  - [Seq — a language for bioinformatics](https://github.com/seq-lang/seq)
  - [Convolutional Neural Networks](https://www.cs.ryerson.ca/~aharley/vis/conv/)
  - Adopt [n2n pizza bot](https://code.nerd2nerd.org/n2n/pizzabot)
@@ -41,5 +41,5 @@
 
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_40)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_42)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_040)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_042)

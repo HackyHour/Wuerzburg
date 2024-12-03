@@ -69,7 +69,7 @@
  - Explore [Open Alex](https://docs.openalex.org/) API vs. WikiData (Scholia)
  - Build a network from OpenCitations
  - Start a challenge site as ~~HackyHour~~ WueCTF Team ([possible sites](http://www.wechall.net/active_sites), selection: [Revolution Elite](https://www.revolutionelite.co.uk/), [247CTF](https://247ctf.com/), [Hack the Box](https://www.hackthebox.com/))
- - Kali Linux and [RasPwn OS](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_74) &rarr; do we want to do this next time?
+ - Kali Linux and [RasPwn OS](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_074) &rarr; do we want to do this next time?
  - Play with the data from Numerai https://numer.ai/ (Tilman)
  - Play with Stable Diffusion in [Dream Studio](https://beta.dreamstudio.ai)
  - Voting Systems → [Arrow Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (example of a voting system: [STV](https://en.wikipedia.org/wiki/Counting_single_transferable_votes#Meek))
@@ -85,4 +85,4 @@
  - Data analysis with natural language: [veezoo](https://www.veezoo.com/)
 
 ## Earlier
-Look ad [pad 63](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_63) and before.
+Look ad [pad 63](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_063) and before.

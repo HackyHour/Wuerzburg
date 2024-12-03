@@ -2,7 +2,7 @@
 
 ## Live
  - **When:** **Monday**, December 19<sup>th</sup>, 2022 at 5:00pm
- - **Where:** <!-- Physics Department - Seminar Room SE2 (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_76) 
+ - **Where:** <!-- Physics Department - Seminar Room SE2 (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_076) 
  - **Info:** [HackyHour Website](http://hackyhour.github.io/Wuerzburg/)
  - :vertical_traffic_light:  If possible, we will be meeting live. Please only come if you are vaccinated, recovered or negatively tested (3G rules).
 
@@ -47,5 +47,5 @@ Because of the seasonal HackyHour :christmas_tree::santa::star: in December, we 
  - Any AoC Challenge
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_74)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_76)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_074)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_076)

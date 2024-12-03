@@ -37,5 +37,5 @@ Topics:
  - Automatically [translating webpages of the IT](https://www.rz.uni-wuerzburg.de/en/services/) from German to English (any other) and hosting automatically on a wiki? (remember the accessibility aspect here...)
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_84)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_86)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_084)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_086)

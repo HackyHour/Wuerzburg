@@ -3,7 +3,7 @@
 ## Probably Live
  - **When:** ~~Thursday~~ :exclamation: **Wednesday**, October 26<sup>th</sup>, 2022 at 5:00pm
  - There is the [Data Analytics Meetup](https://www.meetup.com/wurzburg-data-analytics-meetup/) on Thursday, October 27
- - **Where:** Physics Department - Seminar Room SE2 (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_74) -->
+ - **Where:** Physics Department - Seminar Room SE2 (https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_074) -->
  - **Info:** [HackyHour Website](http://hackyhour.github.io/Wuerzburg/)
  - :vertical_traffic_light:  If possible, we will be meeting live. Please only come if you are vaccinated, recovered or negatively tested (3G rules).
 
@@ -38,8 +38,8 @@
  - OpenStreetMap data as networkx in python (Torsten)
  - Explore [Open Alex](https://docs.openalex.org/) API vs. WikiData (Scholia) - Daniel M.?
  - [Runway](https://runwayml.com/) an online video editor with "AI Magic Tools"
- - Kali Linux and [RasPwn OS](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_74) &rarr; do we want to do this next time? 
+ - Kali Linux and [RasPwn OS](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_074) &rarr; do we want to do this next time? 
 
 ## Cross Links
- - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_72)
- - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_74)
+ - [previous pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_072)
+ - [next pad](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_074)
