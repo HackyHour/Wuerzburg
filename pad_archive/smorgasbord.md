@@ -1,8 +1,24 @@
+---
+title: HackyHour Ideas Smorgasbord
+
+---
+
 # HackyHour Ideas Smorgasbord
 
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2024
+ - Try [Supabase](https://supabase.com/docs) (selfhosted) - for a real-time two player game e.g. something snake-like with [kaboomjs](https://kaboomjs.com/) :snake: 
+ - deploy [custom RAG](https://python.langchain.com/docs/tutorials/rag/) via [Open WebUI Pipelines](https://docs.openwebui.com/pipelines/) or [Msty](https://msty.app/) :computer: 
+ - [<css-doodle />](https://css-doodle.com/) :art:
+ - [MysteryTwister](https://mysterytwister.org/) :tornado:
+ - [Devbox](https://www.jetify.com/devbox) :package:
+ - [Ludii General Game System](https://ludii.games/) :black_joker:
+ - [presenterm](https://mfontanini.github.io/presenterm/) - presentations from markdown in the terminal :comet:
+ - https://orangedatamining.com/ :orange_heart:
+ - Try [josh](https://josh-project.github.io/josh/intro.html) (just one single history) :bookmark_tabs:
+ - [ChatGPT reasoning models](https://platform.openai.com/docs/guides/reasoning) :thought_balloon:
+ - Solve an AoC challenge in [Uiua](https://www.uiua.org/) `÷⧻⟜/+` or [APL](https://tryapl.org) or [NeoHaskell](https://neohaskell.org/) or some other exotic language
  - Billy Bass goes ChatGPT :fish: 
  - [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) :unicorn_face: 
  - [phyphox](https://phyphox.org/de/home-de/) - smartphone as mobile lab :iphone: :chart_with_upwards_trend:
@@ -69,7 +85,7 @@
  - Explore [Open Alex](https://docs.openalex.org/) API vs. WikiData (Scholia)
  - Build a network from OpenCitations
  - Start a challenge site as ~~HackyHour~~ WueCTF Team ([possible sites](http://www.wechall.net/active_sites), selection: [Revolution Elite](https://www.revolutionelite.co.uk/), [247CTF](https://247ctf.com/), [Hack the Box](https://www.hackthebox.com/))
- - Kali Linux and [RasPwn OS](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_074) &rarr; do we want to do this next time?
+ - Kali Linux and [RasPwn OS](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_74) &rarr; do we want to do this next time?
  - Play with the data from Numerai https://numer.ai/ (Tilman)
  - Play with Stable Diffusion in [Dream Studio](https://beta.dreamstudio.ai)
  - Voting Systems → [Arrow Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (example of a voting system: [STV](https://en.wikipedia.org/wiki/Counting_single_transferable_votes#Meek))
@@ -85,4 +101,4 @@
  - Data analysis with natural language: [veezoo](https://www.veezoo.com/)
 
 ## Earlier
-Look ad [pad 63](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_063) and before.
+Look ad [pad 63](https://hackyhour.github.io/Wuerzburg/pad_archive/HackyHour_Wuerzburg_63) and before.
