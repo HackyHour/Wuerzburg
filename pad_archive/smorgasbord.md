@@ -7,6 +7,10 @@ title: HackyHour Ideas Smorgasbord
 
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
+## 2025
+- [Tectonic typesetting](https://github.com/tectonic-typesetting/tectonic?tab=readme-ov-file)
+- Graph analysis and visualization ([networkx](https://networkx.org/documentation/stable/reference/drawing.html), [pyvis](https://pyvis.readthedocs.io/en/latest/tutorial.html), [cytoscape](https://cytoscape.org/)([js](https://js.cytoscape.org/)))
+
 ## 2024
  - Try [Supabase](https://supabase.com/docs) (selfhosted) - for a real-time two player game e.g. something snake-like with [kaboomjs](https://kaboomjs.com/) :snake: 
  - deploy [custom RAG](https://python.langchain.com/docs/tutorials/rag/) via [Open WebUI Pipelines](https://docs.openwebui.com/pipelines/) or [Msty](https://msty.app/) :computer: 
