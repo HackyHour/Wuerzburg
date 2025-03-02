@@ -20,8 +20,9 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 101 | 2025-02-24 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
-| 100 | 2025-01-27 | [AMD IPU on linux](https://community.frame.work/t/ryzen-ai-with-amd-ipu-on-framework-laptops/36356) and [RAGFlow](https://ragflow.io/docs/dev/) | [pad](https://hackmd.io/@iimog/hhpad)|
+| 102 | 2025-03-24 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 101 | 2025-02-24 | R script for temparature time series analysis | [pad](pad_archive/HackyHour_Wuerzburg_101)|
+| 100 | 2025-01-27 | [AMD IPU on linux](https://community.frame.work/t/ryzen-ai-with-amd-ipu-on-framework-laptops/36356) and [RAGFlow](https://ragflow.io/docs/dev/) | [pad](pad_archive/HackyHour_Wuerzburg_100)|
 | 99 | 2024-12-16 | Seasonal and anniversary HackyHour 🎄🎉 Advent of Code in [Uiua](https://uiua.org) | [pad](pad_archive/HackyHour_Wuerzburg_099)|
 | 98 | 2024-11-25 | Fix R script for qPCR analysis | [pad](pad_archive/HackyHour_Wuerzburg_098) |
 | 97 | 2024-10-28 | Reading nfc student cards | [pad](pad_archive/HackyHour_Wuerzburg_097) |
