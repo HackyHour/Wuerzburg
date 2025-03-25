@@ -8,6 +8,10 @@ title: HackyHour Ideas Smorgasbord
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- How hard can it be to make everyone happy? Graph partition problem (distributing students into two classes where every student has two wishes for class mates) :giraffe_face: 
+- Build a game in [Pygame Zero](https://pygame-zero.readthedocs.io) :video_game:
+- [ratzilla](https://github.com/orhun/ratzilla) - tui for the web, powered by [ratatui](https://ratatui.rs/) ([demo](https://orhun.dev/ratzilla/demo/)) :rat: :t-rex:
+- [Krisendaten](https://krisendaten.de/)
 - [Tectonic typesetting](https://github.com/tectonic-typesetting/tectonic?tab=readme-ov-file)
 - Graph analysis and visualization ([networkx](https://networkx.org/documentation/stable/reference/drawing.html), [pyvis](https://pyvis.readthedocs.io/en/latest/tutorial.html), [cytoscape](https://cytoscape.org/)([js](https://js.cytoscape.org/)))
 
