@@ -8,6 +8,9 @@ title: HackyHour Ideas Smorgasbord
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- Hack the [JuiceShop](https://owasp.org/www-project-juice-shop/) :tropical_drink:
+- How to improve long running db queries (materialized views, triggers, caching) :hourglass_flowing_sand: 
+- [Libre Office in the Browser](https://zetaoffice.net/) :paperclip:
 - How hard can it be to make everyone happy? Graph partition problem (distributing students into two classes where every student has two wishes for class mates) :giraffe_face: 
 - Build a game in [Pygame Zero](https://pygame-zero.readthedocs.io) :video_game:
 - [ratzilla](https://github.com/orhun/ratzilla) - tui for the web, powered by [ratatui](https://ratatui.rs/) ([demo](https://orhun.dev/ratzilla/demo/)) :rat: :t-rex:
