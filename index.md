@@ -7,9 +7,9 @@ We strive to be an open and inclusive community, everyone is welcome! We have a 
 The location is alternating between the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://hackmd.io/@iimog/hhpad)).
 
 # When
-On the fourth Monday of each month at 5pm c.t.
+On the fourth Wednesday of each month at 5pm
 
-### Attention! The HackyHour on April 28, 2025 happens in the CCTB right after the closing ceremony of the 5th Data Crunch Cup Würzburg. The closing ceremony starts at 4 pm in the large seminar room of the CCTB and includes pizza.
+### Attention! The week day of the HackyHour changed from Monday to Wednesday (and start time moved back to 5 sharp)
 
 You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/@iimog/hhpad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
@@ -22,7 +22,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 103 | 2025-04-28 | DCCW Closing Ceremony & Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 104 | 2025-05-28 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 103 | 2025-04-28 | [DCCW](https://dccw.de) Closing Ceremony & [JuiceShop](https://owasp.org/www-project-juice-shop/) | [pad](pad_archive/HackyHour_Wuerzburg_103)|
 | 102 | 2025-03-24 | Hack the [JuiceShop](https://owasp.org/www-project-juice-shop/) | [pad](pad_archive/HackyHour_Wuerzburg_102)|
 | 101 | 2025-02-24 | R script for temparature time series analysis | [pad](pad_archive/HackyHour_Wuerzburg_101)|
 | 100 | 2025-01-27 | [AMD IPU on linux](https://community.frame.work/t/ryzen-ai-with-amd-ipu-on-framework-laptops/36356) and [RAGFlow](https://ragflow.io/docs/dev/) | [pad](pad_archive/HackyHour_Wuerzburg_100)|
