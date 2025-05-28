@@ -8,6 +8,12 @@ title: HackyHour Ideas Smorgasbord
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- [napari-imagej](https://napari.imagej.net/en/stable/) (uniting a modern image viewer with a mature ecosystem) :microscope:
+- [KNIME](https://hub.knime.com/knime/collections/Starter%20collection~Y0m-e65xNWBFcR20) visual data workflows :triangular_flag_on_post:
+- Using local AI to create keywords for your photo collection: [python script from c't article](https://ct.de/y6bk) :frame_with_picture: - extend to facial recognition (local and privacy preserving, e.g. using [deepface](https://github.com/serengil/deepface)) :face_palm:
+- self hosted photo management solutions (e.g. [Immich](https://immich.app/), [PhotoPrism](https://www.photoprism.app/), [Damselfly](https://damselfly.info/), [LibrePhotos](https://docs.librephotos.com/)) or local (e.g. [digiKam](https://www.digikam.org/documentation/)) :camera_with_flash: 
+- [Rockstar](https://codewithrockstar.com/tutorial) a fun programming language :man_dancing:
+- [Split keyboards](https://splitkb.com/) and [alternative keyboard layouts](https://cyanophage.github.io/)
 - Hack the [JuiceShop](https://owasp.org/www-project-juice-shop/) :tropical_drink:
 - How to improve long running db queries (materialized views, triggers, caching) :hourglass_flowing_sand: 
 - [Libre Office in the Browser](https://zetaoffice.net/) :paperclip:
