@@ -1,0 +1,10 @@
+[package]
+name = "bevy_breakout"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = {version = "0.16.0", features = ["bevy_debug_stepping"]}
+
+[features]
+bevy_debug_stepping = []
