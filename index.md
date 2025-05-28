@@ -22,7 +22,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 104 | 2025-05-28 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 105 | 2025-06-25 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 104 | 2025-05-28 | Animations in LaTeX & Breakout game in [Bevy Engine](https://bevyengine.org/) | [pad](pad_archive/HackyHour_Wuerzburg_104)|
 | 103 | 2025-04-28 | [DCCW](https://dccw.de) Closing Ceremony & [JuiceShop](https://owasp.org/www-project-juice-shop/) | [pad](pad_archive/HackyHour_Wuerzburg_103)|
 | 102 | 2025-03-24 | Hack the [JuiceShop](https://owasp.org/www-project-juice-shop/) | [pad](pad_archive/HackyHour_Wuerzburg_102)|
 | 101 | 2025-02-24 | R script for temparature time series analysis | [pad](pad_archive/HackyHour_Wuerzburg_101)|
