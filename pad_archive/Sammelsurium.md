@@ -1,13 +1,14 @@
 ---
-title: HackyHour Ideas Smorgasbord
+title: HackyHour Ideas Sammelsurium
 
 ---
 
-# HackyHour Ideas Smorgasbord
+# HackyHour Ideas Sammelsurium
 
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- Build something with the [Bevy Engine](https://bevyengine.org/) ([Examples](https://bevyengine.org/examples/#games)) :black_bird: e.g. improving our breakout game or turn it into a multi-player pong game :table_tennis_paddle_and_ball:
 - [napari-imagej](https://napari.imagej.net/en/stable/) (uniting a modern image viewer with a mature ecosystem) :microscope:
 - [KNIME](https://hub.knime.com/knime/collections/Starter%20collection~Y0m-e65xNWBFcR20) visual data workflows :triangular_flag_on_post:
 - Using local AI to create keywords for your photo collection: [python script from c't article](https://ct.de/y6bk) :frame_with_picture: - extend to facial recognition (local and privacy preserving, e.g. using [deepface](https://github.com/serengil/deepface)) :face_palm:
