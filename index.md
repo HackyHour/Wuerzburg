@@ -9,8 +9,6 @@ The location is alternating between the [CCTB Würzburg](https://www.google.de/m
 # When
 On the fourth Wednesday of each month at 5pm
 
-### Attention! The week day of the HackyHour changed from Monday to Wednesday (and start time moved back to 5 sharp)
-
 You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/@iimog/hhpad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
