@@ -8,6 +8,10 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- [CodinGame summer challenge](https://www.codingame.com/contests/summer-challenge-2025-coderpad-play) :sunny: 
+- [pwn.college](https://pwn.college/) :martial_arts_uniform:
+- Try [Valsci](https://github.com/bricee98/Valsci) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-025-06159-4)) for literature reviews :books:
+- write csvR equivalently to [csvpy](https://csvkit.readthedocs.io/en/latest/scripts/csvpy.html) :pirate_flag: 
 - Build something with the [Bevy Engine](https://bevyengine.org/) ([Examples](https://bevyengine.org/examples/#games)) :black_bird: e.g. improving our breakout game or turn it into a multi-player pong game :table_tennis_paddle_and_ball:
 - [napari-imagej](https://napari.imagej.net/en/stable/) (uniting a modern image viewer with a mature ecosystem) :microscope:
 - [KNIME](https://hub.knime.com/knime/collections/Starter%20collection~Y0m-e65xNWBFcR20) visual data workflows :triangular_flag_on_post:
