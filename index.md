@@ -12,6 +12,7 @@ On the fourth Wednesday of each month at 5pm
 You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/@iimog/hhpad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
+### Attention! There is no HackyHour in August - summer break 🏝️
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
@@ -20,7 +21,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 106 | 2025-07-23 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 106 | 2025-09-24 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 106 | 2025-07-23 | [marimo](https://marimo.io/) animations, ANSI cursor movement codes | [pad](pad_archive/HackyHour_Wuerzburg_106)|
 | 105 | 2025-06-25 | [pwn.college](https://pwn.college) | [pad](pad_archive/HackyHour_Wuerzburg_105)|
 | 104 | 2025-05-28 | Animations in LaTeX & Breakout game in [Bevy Engine](https://bevyengine.org/) | [pad](pad_archive/HackyHour_Wuerzburg_104)|
 | 103 | 2025-04-28 | [DCCW](https://dccw.de) Closing Ceremony & [JuiceShop](https://owasp.org/www-project-juice-shop/) | [pad](pad_archive/HackyHour_Wuerzburg_103)|
