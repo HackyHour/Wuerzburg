@@ -8,6 +8,10 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- Try [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) with variable sharing (R, python, [julia?](https://github.com/dotnet/interactive/issues/3209)) :flags:
+- [Waydroid](https://waydro.id/) android apps on linux :iphone: 
+- Try out [Observable Kit](https://observablehq.com/notebook-kit/kit) (a.k.a. Notebooks 2.0) :face_with_monocle: 
+- Building a [RAGflow agent](https://ragflow.io/docs/dev/agent_introduction) :robot_face: or try out [Copilot in Agent Mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode) :pilot: (alternatively [n8n](https://n8n.io/)) or a [LangChain agent](https://python.langchain.com/docs/tutorials/agents/) :black_bird: or [ClaraVerse](https://claraverse.space/)
 - [CodinGame summer challenge](https://www.codingame.com/contests/summer-challenge-2025-coderpad-play) :sunny: 
 - [pwn.college](https://pwn.college/) :martial_arts_uniform:
 - Try [Valsci](https://github.com/bricee98/Valsci) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-025-06159-4)) for literature reviews :books:
