@@ -35,7 +35,7 @@ Online discussions for these topics are accessible via the following links.
 | 97 | 2024-10-28 | Reading nfc student cards | [pad](pad_archive/HackyHour_Wuerzburg_097) |
 | 96 | 2024-09-23 | polars vs pandas in marimo and rust | [pad](pad_archive/HackyHour_Wuerzburg_096) |
 | 95 | 2024-09-10 | Extraordinary HackyHour: adapting the gameplay of [Geographical Adventures](https://github.com/SebLague/Geographical-Adventures/) | [pad](pad_archive/HackyHour_Wuerzburg_095) |
-| 94 | 2024-08-26 | Fix keyboard short-cuts via VNC, create [a dice score guessing game](94_fasthtml/main.py) via [FastHTML](https://www.fastht.ml/) | [pad](pad_archive/HackyHour_Wuerzburg_094) |
+| 94 | 2024-08-26 | Fix keyboard short-cuts via VNC, create [a dice score guessing game](sessions/094_fasthtml/main.py) via [FastHTML](https://www.fastht.ml/) | [pad](pad_archive/HackyHour_Wuerzburg_094) |
 | 93 | 2024-07-22 | Getting into Linux, backup/snapshot workflows and tools | [pad](pad_archive/HackyHour_Wuerzburg_093) |
 | 92 | 2024-06-24 | Debugging data consistency errors, fix bootloader, poster design | [pad](pad_archive/HackyHour_Wuerzburg_092) |
 | 91 | 2024-05-27 | Debugging GPU-related hardware issues | [pad](pad_archive/HackyHour_Wuerzburg_091) |
@@ -43,11 +43,11 @@ Online discussions for these topics are accessible via the following links.
 | 89 | 2024-03-25 | Adding a GUI (egui) to a [wgpu](https://wgpu.rs/) application | [pad](pad_archive/HackyHour_Wuerzburg_089) |
 | 88 | 2024-02-26 | Visualizations for disecting compact hyperbolic graphs along incontractible loops | [pad](pad_archive/HackyHour_Wuerzburg_088) |
 | 87 | 2023-01-22 | Shader to render the Mandelbrot set with [wgpu](https://wgpu.rs/) | [pad](pad_archive/HackyHour_Wuerzburg_087) |
-| 86 | 2023-12-19 | Seasonal HackyHour 🎅, [Tetris on pyboy](./86_tetris/tetris.py) | [pad](pad_archive/HackyHour_Wuerzburg_086) |
+| 86 | 2023-12-19 | Seasonal HackyHour 🎅, [Tetris on pyboy](sessions/086_tetris/tetris.py) | [pad](pad_archive/HackyHour_Wuerzburg_086) |
 | 85 | 2023-11-27 | Solving multiple [rankk.org](https://rankk.org) challenges | [pad](pad_archive/HackyHour_Wuerzburg_085) |
 | 84 | 2023-10-23 | Evolutionary Games (IsoMatrix), Bundesliga betting game statistics on [couchtipper](https://www.couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_084) |
 | 83 | 2023-09-25 | Library sorting for gene editing, conda problem on Mac | [pad](pad_archive/HackyHour_Wuerzburg_083) |
-| 82 | 2023-07-24 | [Button Men](https://boardgamegeek.com/boardgame/17/button-men) [win probability](82_buttonmen/hannah_vs_karl_2dice.jpeg) ([Hannah](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/hannah.png) vs [Karl](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/karl.png)) | [pad](pad_archive/HackyHour_Wuerzburg_082) |
+| 82 | 2023-07-24 | [Button Men](https://boardgamegeek.com/boardgame/17/button-men) [win probability](sessions/082_buttonmen/hannah_vs_karl_2dice.jpeg) ([Hannah](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/hannah.png) vs [Karl](https://github.com/buttonmen-dev/buttonmen/blob/master/src/ui/images/button/karl.png)) | [pad](pad_archive/HackyHour_Wuerzburg_082) |
 | 81 | 2023-06-28 | Q-Learning with Flappy Bird | [pad](pad_archive/HackyHour_Wuerzburg_081) |
 | 80 | 2023-05-22 | Optimizing Flappy Bird algorithm | [pad](pad_archive/HackyHour_Wuerzburg_080) |
 | 79 | 2023-04-26 | Unity, eduroam on T14 G3 (linux generic) | [pad](pad_archive/HackyHour_Wuerzburg_079) |
@@ -57,23 +57,23 @@ Online discussions for these topics are accessible via the following links.
 | 75 | 2022-12-19 | Seasonal HackyHour 🎅, [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room/homepage), [Advent of Code challenge of the day](https://adventofcode.com/2022/day/19) | [pad](pad_archive/HackyHour_Wuerzburg_075) |
 | 74 | 2022-11-24 | eLabFTW MySQL problem | [pad](pad_archive/HackyHour_Wuerzburg_074) |
 | 73 | 2022-10-26 | Julia problem, components of a workstation | [pad](pad_archive/HackyHour_Wuerzburg_073) |
-| 72 | 2022-09-22 | numpy multithreading (how to avoid it), [Shoot the Monkey II](./72_monkey) | [pad](pad_archive/HackyHour_Wuerzburg_072) |
+| 72 | 2022-09-22 | numpy multithreading (how to avoid it), [Shoot the Monkey II](sessions/072_monkey) | [pad](pad_archive/HackyHour_Wuerzburg_072) |
 | 71 | 2022-08-25 | [Oh My Git!](https://ohmygit.org/) | [pad](pad_archive/HackyHour_Wuerzburg_071) |
 | 70 | 2022-07-28 | Text2Image ([dalle-mini](https://github.com/borisdayma/dalle-mini)), [AoC2017#7](https://adventofcode.com/2017/day/7) | [pad](pad_archive/HackyHour_Wuerzburg_070) |
 | 69 | 2022-06-23 | Jupyter Hub, eLabFTW, Pluto Notebooks | [pad](pad_archive/HackyHour_Wuerzburg_069) |
 | 68 | 2022-05-25 | Solved multiple problems, finished Maelstrom challenge | [pad](pad_archive/HackyHour_Wuerzburg_068) |
 | 67 | 2022-04-28 | Poster design, Maelstrom challenge | [pad](pad_archive/HackyHour_Wuerzburg_067) |
 | 66 | 2022-03-22 | *Hybrid (COVID-19)*, Netwide Assembler | [pad](pad_archive/HackyHour_Wuerzburg_066) |
-| 65 | 2022-02-23 | $\LaTeX$ with Jupyter Book, playing with [GitHub Copilot](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/65_copilot) | [pad](pad_archive/HackyHour_Wuerzburg_065) |
+| 65 | 2022-02-23 | $\LaTeX$ with Jupyter Book, playing with [GitHub Copilot](sessions/065_copilot) | [pad](pad_archive/HackyHour_Wuerzburg_065) |
 | 64 | 2022-01-27 | *Hybrid (COVID-19)*, Experiences doing [Advent of Code](https://adventofcode.com/) (in Go and Julia) | [pad](pad_archive/HackyHour_Wuerzburg_064) |
-| 63 | 2021-12-02 | [Napari time series plotter](https://github.com/ch-n/napari-time_series_plotter), [python hashable types](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/63_python_hash/hashable_edge.ipynb), [Software Carpentry follow-up](https://git.physik.uni-wuerzburg.de/Z03/swc-followup) | [pad](pad_archive/HackyHour_Wuerzburg_063) |
+| 63 | 2021-12-02 | [Napari time series plotter](https://github.com/ch-n/napari-time_series_plotter), [python hashable types](sessions/063_python_hash/hashable_edge.ipynb), [Software Carpentry follow-up](https://git.physik.uni-wuerzburg.de/Z03/swc-followup) | [pad](pad_archive/HackyHour_Wuerzburg_063) |
 | 62 | 2021-10-28 | [DataLad](https://www.datalad.org/) on [GitLab](https://gitlab.com/iimog/datalad-gitlab-lfs) with [LFS](https://git-lfs.github.com/) | [pad](pad_archive/HackyHour_Wuerzburg_062) |
-| 61 | 2021-09-23 | Compiled and optimized [code benchmark](https://github.com/HackyHour/Wuerzburg/tree/gh-pages/61_dgl) | [pad](pad_archive/HackyHour_Wuerzburg_061) |
+| 61 | 2021-09-23 | Compiled and optimized [code benchmark](sessions/061_dgl) | [pad](pad_archive/HackyHour_Wuerzburg_061) |
 | 60 | 2021-08-26 | Simple [code benchmark](https://github.com/scfischer/Tutorials/tree/main/Language%20Performance%20Comparison): python, julia, R, rust, perl, C++ | [pad](pad_archive/HackyHour_Wuerzburg_060) |
-| 59 | 2021-07-29 | Physics Simulation with Blender: [Shoot the Monkey](./59_monkey) | [pad](pad_archive/HackyHour_Wuerzburg_059) |
+| 59 | 2021-07-29 | Physics Simulation with Blender: [Shoot the Monkey](sessions/059_monkey) | [pad](pad_archive/HackyHour_Wuerzburg_059) |
 | 58 | 2021-06-23 | *Remote (COVID-19)*, protein supersecondary structure, 3D printing, zstd compression | [pad](pad_archive/HackyHour_Wuerzburg_058) |
 | 57 | 2021-05-27 | *Remote (COVID-19)*, [Open Data Würzburg](https://opendata.wuerzburg.de/): [pedestrian counts](https://opendata.wuerzburg.de/explore/dataset/hystreet_ab_1-1-2019/information/) | [pad](pad_archive/HackyHour_Wuerzburg_057) |
-| 56 | 2021-04-22 | *Remote (COVID-19)*, [meetingplace.io](https://meetingplace.io/), [CorrelAid](https://correlaid.org/de/), [Neural Arithmetic Logic Units (NALUs)](https://github.com/HackyHour/Wuerzburg/blob/gh-pages/56_nalu/nalu_problem.ipynb) | [pad](pad_archive/HackyHour_Wuerzburg_056) |
+| 56 | 2021-04-22 | *Remote (COVID-19)*, [meetingplace.io](https://meetingplace.io/), [CorrelAid](https://correlaid.org/de/), [Neural Arithmetic Logic Units (NALUs)](sessions/056_nalu/nalu_problem.ipynb) | [pad](pad_archive/HackyHour_Wuerzburg_056) |
 | 55 | 2021-03-25 | *Remote (COVID-19)*, Android root/cutom rom, Physics | [pad](pad_archive/HackyHour_Wuerzburg_055) |
 | 54 | 2021-02-25 | *Remote (COVID-19)*, [Zig](https://ziglang.org/), [Loss Landscapes](https://losslandscape.com/explorer) | [pad](pad_archive/HackyHour_Wuerzburg_054) |
 | 53 | 2021-01-28 | *Remote (COVID-19)*, Challenge Platform [ctfd](https://ctfd.io/), tidytuesday: [cats and dogs](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-09-11) | [pad](pad_archive/HackyHour_Wuerzburg_053) |
