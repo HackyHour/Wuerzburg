@@ -8,6 +8,9 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- Build an agent-based workflow as a research assisstant
+- Manage issues across GitHub, GitLab and Forgejo with [git-bug](https://github.com/git-bug/git-bug) :ladybug: 
+- Try [Instaclone](https://info.instaclone.de/) :selfie: 
 - Try [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) with variable sharing (R, python, [julia?](https://github.com/dotnet/interactive/issues/3209)) :flags:
 - [Waydroid](https://waydro.id/) android apps on linux :iphone: 
 - Try out [Observable Kit](https://observablehq.com/notebook-kit/kit) (a.k.a. Notebooks 2.0) :face_with_monocle: 
