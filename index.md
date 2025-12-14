@@ -19,8 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 110 | 2025-12-17 | Seasonal HackyHour 🎅 | |
-| 109 | 2025-11-26 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad)|
+| 110 | 2025-12-17 | Seasonal HackyHour 🎅 Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 109 | 2025-11-26 | Fix a python environment, [teamtype](https://github.com/teamtype/teamtype) and [live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | [pad](pad_archive/HackyHour_Wuerzburg_109) |
 | 108 | 2025-10-29 | Implementing the [CVM algorithm](https://arxiv.org/abs/2301.10191) as described [here](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/) in python and rust | [pad](pad_archive/HackyHour_Wuerzburg_108)|
 | 107 | 2025-09-24 | Peer-to-peer git with [radicle](https://radicle.xyz/) | [pad](pad_archive/HackyHour_Wuerzburg_107)|
 | 106 | 2025-07-23 | [marimo](https://marimo.io/) animations, ANSI cursor movement codes | [pad](pad_archive/HackyHour_Wuerzburg_106)|
