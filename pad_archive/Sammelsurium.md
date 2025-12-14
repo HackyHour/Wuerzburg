@@ -8,6 +8,7 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2025
+- Liberated AirPods [librepods](https://github.com/kavishdevar/librepods) :headphones: 
 - Build an agent-based workflow as a research assisstant
 - Manage issues across GitHub, GitLab and Forgejo with [git-bug](https://github.com/git-bug/git-bug) :ladybug: 
 - Try [Instaclone](https://info.instaclone.de/) :selfie: 
