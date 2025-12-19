@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lattice Boltzmann Fluid Simulation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            background: #1a1a1a;
+            color: #fff;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        
+        #container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+        }
+        
+        #canvas {
+            border: 2px solid #444;
+            cursor: move;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+        }
+        
+        #controls {
+            background: #2a2a2a;
+            padding: 15px 25px;
+            border-radius: 8px;
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        label {
+            font-size: 12px;
+            color: #aaa;
+        }
+        
+        input[type="range"] {
+            width: 150px;
+        }
+        
+        .value-display {
+            font-size: 14px;
+            color: #4af;
+            font-weight: bold;
+        }
+        
+        button {
+            background: #4af;
+            color: #000;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        
+        button:hover {
+            background: #6cf;
+        }
+        
+        #info {
+            font-size: 12px;
+            color: #888;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <canvas id="canvas"></canvas>
+        <div id="controls">
+            <div class="control-group">
+                <label>Viscosity</label>
+                <input type="range" id="viscosity" min="0.01" max="0.2" step="0.01" value="0.02">
+                <span class="value-display" id="viscosity-value">0.02</span>
+            </div>
+            <div class="control-group">
+                <label>Inflow Speed</label>
+                <input type="range" id="speed" min="0.01" max="0.15" step="0.01" value="0.08">
+                <span class="value-display" id="speed-value">0.08</span>
+            </div>
+            <button id="reset">Reset Obstacle</button>
+        </div>
+        <div id="info">
+            Drag the circular obstacle to see fluid dynamics in action | FPS: <span id="fps">0</span>
+        </div>
+    </div>
+    <script src="simulation.js"></script>
+</body>
+</html>

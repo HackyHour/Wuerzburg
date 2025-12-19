@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drone Swarm Search Simulator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Drone Swarm Search Simulator</h1>
+        <div class="controls">
+            <div class="control-group">
+                <label for="droneCount">Number of Drones: <span id="droneCountValue">50</span></label>
+                <input type="range" id="droneCount" min="1" max="200" value="50">
+            </div>
+            <div class="control-group">
+                <label>Search Strategy:</label>
+                <div class="button-group">
+                    <button class="strategy-btn active" data-strategy="swarm">Swarm Intelligence</button>
+                    <button class="strategy-btn" data-strategy="nearest">Nearest First</button>
+                    <button class="strategy-btn" data-strategy="grid">Grid Sweep</button>
+                    <button class="strategy-btn" data-strategy="random">Random Walk</button>
+                </div>
+            </div>
+            <div class="control-group">
+                <button id="clearAreas">Clear Search Areas</button>
+                <button id="resetDrones">Reset Drones</button>
+            </div>
+            <div class="info">
+                <p>Click and drag to draw search areas</p>
+                <div class="stats">
+                    <p>Coverage: <span id="coverage">0%</span></p>
+                    <p>Time Steps: <span id="timeSteps">0</span></p>
+                    <p>Last Area Cleared In: <span id="lastClearTime">-</span> steps</p>
+                    <p>Average Clear Time: <span id="avgClearTime">-</span> steps</p>
+                </div>
+            </div>
+        </div>
+        <canvas id="canvas" width="1200" height="800"></canvas>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

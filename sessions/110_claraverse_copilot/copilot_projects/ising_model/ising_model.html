@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Ising Model Simulation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 30px;
+            max-width: 900px;
+            width: 100%;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2em;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 25px;
+            font-size: 0.9em;
+        }
+
+        .main-content {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .canvas-container {
+            flex: 1;
+            min-width: 400px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        canvas {
+            border: 3px solid #667eea;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            cursor: crosshair;
+        }
+
+        .controls {
+            flex: 0 0 280px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .control-group {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .control-group h3 {
+            color: #667eea;
+            margin-bottom: 12px;
+            font-size: 1.1em;
+        }
+
+        .slider-container {
+            margin: 10px 0;
+        }
+
+        label {
+            display: block;
+            color: #555;
+            margin-bottom: 8px;
+            font-weight: 500;
+            font-size: 0.9em;
+        }
+
+        input[type="range"] {
+            width: 100%;
+            height: 6px;
+            border-radius: 5px;
+            background: #ddd;
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #667eea;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        input[type="range"]::-webkit-slider-thumb:hover {
+            background: #764ba2;
+            transform: scale(1.2);
+        }
+
+        input[type="range"]::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #667eea;
+            cursor: pointer;
+            border: none;
+        }
+
+        .value-display {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 0.85em;
+            margin-left: 8px;
+        }
+
+        .button-group {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        button {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 0.95em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5568d3;
+        }
+
+        .btn-secondary {
+            background: #48bb78;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #38a169;
+        }
+
+        .btn-danger {
+            background: #f56565;
+            color: white;
+        }
+
+        .btn-danger:hover {
+            background: #e53e3e;
+        }
+
+        .btn-info {
+            background: #4299e1;
+            color: white;
+        }
+
+        .btn-info:hover {
+            background: #3182ce;
+        }
+
+        .stats {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .stat-item {
+            display: flex;
+            justify-content: space-between;
+            margin: 8px 0;
+            font-size: 0.95em;
+        }
+
+        .stat-label {
+            font-weight: 500;
+        }
+
+        .stat-value {
+            font-weight: bold;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 2px 10px;
+            border-radius: 10px;
+        }
+
+        .info-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 12px;
+            border-radius: 5px;
+            font-size: 0.85em;
+            color: #856404;
+            line-height: 1.5;
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+            }
+            
+            .canvas-container {
+                min-width: 100%;
+            }
+            
+            canvas {
+                max-width: 100%;
+                height: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>⚛️ Interactive Ising Model</h1>
+        <p class="subtitle">A statistical mechanics simulation of ferromagnetism</p>
+        
+        <div class="main-content">
+            <div class="canvas-container">
+                <canvas id="isingCanvas" width="500" height="500"></canvas>
+                <div style="margin-top: 20px; width: 100%;">
+                    <h3 style="color: #667eea; margin-bottom: 10px; text-align: center;">📈 Magnetization vs Time</h3>
+                    <canvas id="plotCanvas" width="500" height="200" style="border: 2px solid #667eea; border-radius: 10px; background: white;"></canvas>
+                </div>
+            </div>
+            
+            <div class="controls">
+                <div class="control-group">
+                    <h3>🎮 Simulation Controls</h3>
+                    <div class="button-group">
+                        <button id="playPauseBtn" class="btn-primary">▶️ Play</button>
+                        <button id="stepBtn" class="btn-info">⏭️ Step</button>
+                        <button id="resetBtn" class="btn-danger">🔄 Reset</button>
+                        <button id="randomizeBtn" class="btn-secondary">🎲 Randomize</button>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <h3>⚙️ Parameters</h3>
+                    <div class="slider-container">
+                        <label>
+                            Temperature (T): 
+                            <span class="value-display" id="tempValue">2.27</span>
+                        </label>
+                        <input type="range" id="tempSlider" min="0.1" max="5" step="0.01" value="2.27">
+                    </div>
+                    <div class="slider-container">
+                        <label>
+                            Grid Size: 
+                            <span class="value-display" id="sizeValue">50</span>
+                        </label>
+                        <input type="range" id="sizeSlider" min="20" max="100" step="5" value="50">
+                    </div>
+                    <div class="slider-container">
+                        <label>
+                            Speed: 
+                            <span class="value-display" id="speedValue">10</span>
+                        </label>
+                        <input type="range" id="speedSlider" min="1" max="500" step="5" value="10">
+                    </div>
+                </div>
+
+                <div class="control-group stats">
+                    <h3>📊 Statistics</h3>
+                    <div class="stat-item">
+                        <span class="stat-label">Magnetization:</span>
+                        <span class="stat-value" id="magnetization">0.00</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Energy:</span>
+                        <span class="stat-value" id="energy">0.00</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Steps:</span>
+                        <span class="stat-value" id="steps">0</span>
+                    </div>
+                </div>
+
+                <div class="info-box">
+                    <strong>💡 Tips:</strong><br>
+                    • T ≈ 2.27 is the critical temperature<br>
+                    • Click spins to flip them manually<br>
+                    • Low T → ordered, High T → disordered
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        class IsingModel {
+            constructor(size) {
+                this.size = size;
+                this.grid = [];
+                this.temperature = 2.27; // Critical temperature for 2D Ising model
+                this.J = 1.0; // Coupling constant
+                this.steps = 0;
+                this.isRunning = false;
+                this.speed = 10; // Steps per frame
+                this.magnetizationHistory = [];
+                this.maxHistoryLength = 500;
+                this.initializeGrid();
+            }
+
+            initializeGrid(random = false) {
+                this.grid = [];
+                for (let i = 0; i < this.size; i++) {
+                    this.grid[i] = [];
+                    for (let j = 0; j < this.size; j++) {
+                        if (random) {
+                            this.grid[i][j] = Math.random() < 0.5 ? 1 : -1;
+                        } else {
+                            this.grid[i][j] = 1; // All spins up
+                        }
+                    }
+                }
+                this.steps = 0;
+                this.magnetizationHistory = [];
+            }
+
+            getNeighborSum(i, j) {
+                const size = this.size;
+                const up = this.grid[(i - 1 + size) % size][j];
+                const down = this.grid[(i + 1) % size][j];
+                const left = this.grid[i][(j - 1 + size) % size];
+                const right = this.grid[i][(j + 1) % size];
+                return up + down + left + right;
+            }
+
+            getDeltaEnergy(i, j) {
+                const spin = this.grid[i][j];
+                const neighborSum = this.getNeighborSum(i, j);
+                return 2 * this.J * spin * neighborSum;
+            }
+
+            metropolisStep() {
+                // Random site selection
+                const i = Math.floor(Math.random() * this.size);
+                const j = Math.floor(Math.random() * this.size);
+
+                const deltaE = this.getDeltaEnergy(i, j);
+
+                // Metropolis acceptance criterion
+                if (deltaE <= 0 || Math.random() < Math.exp(-deltaE / this.temperature)) {
+                    this.grid[i][j] *= -1;
+                }
+
+                this.steps++;
+            }
+
+            step() {
+                for (let i = 0; i < this.speed; i++) {
+                    this.metropolisStep();
+                }
+                // Record magnetization every few steps to avoid too much data
+                const mag = this.getMagnetization();
+                this.magnetizationHistory.push(mag);
+                if (this.magnetizationHistory.length > this.maxHistoryLength) {
+                    this.magnetizationHistory.shift();
+                }
+            }
+
+            flipSpin(i, j) {
+                if (i >= 0 && i < this.size && j >= 0 && j < this.size) {
+                    this.grid[i][j] *= -1;
+                }
+            }
+
+            getMagnetization() {
+                let sum = 0;
+                for (let i = 0; i < this.size; i++) {
+                    for (let j = 0; j < this.size; j++) {
+                        sum += this.grid[i][j];
+                    }
+                }
+                return sum / (this.size * this.size);
+            }
+
+            getEnergy() {
+                let energy = 0;
+                for (let i = 0; i < this.size; i++) {
+                    for (let j = 0; j < this.size; j++) {
+                        const neighborSum = this.getNeighborSum(i, j);
+                        energy -= this.J * this.grid[i][j] * neighborSum;
+                    }
+                }
+                return energy / 2 / (this.size * this.size); // Divide by 2 to avoid double counting
+            }
+
+            setSize(newSize) {
+                this.size = newSize;
+                this.initializeGrid();
+            }
+        }
+
+        class IsingVisualizer {
+            constructor(canvasId) {
+                this.canvas = document.getElementById(canvasId);
+                this.ctx = this.canvas.getContext('2d');
+                this.plotCanvas = document.getElementById('plotCanvas');
+                this.plotCtx = this.plotCanvas.getContext('2d');
+                this.model = new IsingModel(50);
+                this.animationId = null;
+
+                this.setupEventListeners();
+                this.draw();
+                this.drawPlot();
+                this.updateStats();
+            }
+
+            setupEventListeners() {
+                // Play/Pause button
+                document.getElementById('playPauseBtn').addEventListener('click', () => {
+                    this.toggleSimulation();
+                });
+
+                // Step button
+                document.getElementById('stepBtn').addEventListener('click', () => {
+                    this.model.step();
+                    this.draw();
+                    this.drawPlot();
+                    this.updateStats();
+                });
+
+                // Reset button
+                document.getElementById('resetBtn').addEventListener('click', () => {
+                    this.model.initializeGrid(false);
+                    this.draw();
+                    this.drawPlot();
+                    this.updateStats();
+                });
+
+                // Randomize button
+                document.getElementById('randomizeBtn').addEventListener('click', () => {
+                    this.model.initializeGrid(true);
+                    this.draw();
+                    this.drawPlot();
+                    this.updateStats();
+                });
+
+                // Temperature slider
+                const tempSlider = document.getElementById('tempSlider');
+                const tempValue = document.getElementById('tempValue');
+                tempSlider.addEventListener('input', (e) => {
+                    this.model.temperature = parseFloat(e.target.value);
+                    tempValue.textContent = parseFloat(e.target.value).toFixed(2);
+                });
+
+                // Size slider
+                const sizeSlider = document.getElementById('sizeSlider');
+                const sizeValue = document.getElementById('sizeValue');
+                sizeSlider.addEventListener('input', (e) => {
+                    const newSize = parseInt(e.target.value);
+                    sizeValue.textContent = newSize;
+                    this.model.setSize(newSize);
+                    this.draw();
+                    this.drawPlot();
+                    this.updateStats();
+                });
+
+                // Speed slider
+                const speedSlider = document.getElementById('speedSlider');
+                const speedValue = document.getElementById('speedValue');
+                speedSlider.addEventListener('input', (e) => {
+                    this.model.speed = parseInt(e.target.value);
+                    speedValue.textContent = e.target.value;
+                });
+
+                // Canvas click to flip spins
+                this.canvas.addEventListener('click', (e) => {
+                    const rect = this.canvas.getBoundingClientRect();
+                    const x = e.clientX - rect.left;
+                    const y = e.clientY - rect.top;
+                    const cellSize = this.canvas.width / this.model.size;
+                    const i = Math.floor(y / cellSize);
+                    const j = Math.floor(x / cellSize);
+                    this.model.flipSpin(i, j);
+                    this.draw();
+                    this.drawPlot();
+                    this.updateStats();
+                });
+            }
+
+            toggleSimulation() {
+                const btn = document.getElementById('playPauseBtn');
+                if (this.model.isRunning) {
+                    this.model.isRunning = false;
+                    btn.textContent = '▶️ Play';
+                    btn.classList.remove('btn-danger');
+                    btn.classList.add('btn-primary');
+                    if (this.animationId) {
+                        cancelAnimationFrame(this.animationId);
+                    }
+                } else {
+                    this.model.isRunning = true;
+                    btn.textContent = '⏸️ Pause';
+                    btn.classList.remove('btn-primary');
+                    btn.classList.add('btn-danger');
+                    this.animate();
+                }
+            }
+
+            animate() {
+                if (!this.model.isRunning) return;
+
+                this.model.step();
+                this.draw();
+                this.drawPlot();
+                this.updateStats();
+
+                this.animationId = requestAnimationFrame(() => this.animate());
+            }
+
+            draw() {
+                const cellSize = this.canvas.width / this.model.size;
+                
+                for (let i = 0; i < this.model.size; i++) {
+                    for (let j = 0; j < this.model.size; j++) {
+                        const spin = this.model.grid[i][j];
+                        
+                        // Color based on spin: up = white, down = black
+                        if (spin === 1) {
+                            this.ctx.fillStyle = '#ffffff';
+                        } else {
+                            this.ctx.fillStyle = '#000000';
+                        }
+                        
+                        this.ctx.fillRect(
+                            j * cellSize,
+                            i * cellSize,
+                            cellSize,
+                            cellSize
+                        );
+                    }
+                }
+            }
+
+            drawPlot() {
+                const ctx = this.plotCtx;
+                const canvas = this.plotCanvas;
+                const history = this.model.magnetizationHistory;
+                
+                // Clear canvas
+                ctx.fillStyle = '#ffffff';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+                
+                if (history.length < 2) return;
+                
+                // Draw grid lines
+                ctx.strokeStyle = '#e0e0e0';
+                ctx.lineWidth = 1;
+                
+                // Horizontal grid lines
+                for (let i = 0; i <= 4; i++) {
+                    const y = (canvas.height / 4) * i;
+                    ctx.beginPath();
+                    ctx.moveTo(0, y);
+                    ctx.lineTo(canvas.width, y);
+                    ctx.stroke();
+                }
+                
+                // Draw axes labels
+                ctx.fillStyle = '#666';
+                ctx.font = '12px Arial';
+                ctx.textAlign = 'right';
+                ctx.fillText('1.0', canvas.width - 5, 15);
+                ctx.fillText('0.5', canvas.width - 5, canvas.height / 4 + 5);
+                ctx.fillText('0.0', canvas.width - 5, canvas.height / 2 + 5);
+                ctx.fillText('-0.5', canvas.width - 5, 3 * canvas.height / 4 + 5);
+                ctx.fillText('-1.0', canvas.width - 5, canvas.height - 5);
+                
+                // Draw magnetization line
+                ctx.strokeStyle = '#667eea';
+                ctx.lineWidth = 2;
+                ctx.beginPath();
+                
+                const xStep = canvas.width / (this.model.maxHistoryLength - 1);
+                
+                for (let i = 0; i < history.length; i++) {
+                    const x = i * xStep;
+                    // Map magnetization from [-1, 1] to canvas height
+                    const y = canvas.height / 2 - (history[i] * canvas.height / 2);
+                    
+                    if (i === 0) {
+                        ctx.moveTo(x, y);
+                    } else {
+                        ctx.lineTo(x, y);
+                    }
+                }
+                
+                ctx.stroke();
+                
+                // Draw zero line
+                ctx.strokeStyle = '#ff6b6b';
+                ctx.lineWidth = 1;
+                ctx.setLineDash([5, 5]);
+                ctx.beginPath();
+                ctx.moveTo(0, canvas.height / 2);
+                ctx.lineTo(canvas.width, canvas.height / 2);
+                ctx.stroke();
+                ctx.setLineDash([]);
+            }
+
+            updateStats() {
+                const magnetization = this.model.getMagnetization();
+                const energy = this.model.getEnergy();
+                
+                document.getElementById('magnetization').textContent = magnetization.toFixed(3);
+                document.getElementById('energy').textContent = energy.toFixed(2);
+                document.getElementById('steps').textContent = this.model.steps;
+            }
+        }
+
+        // Initialize the visualizer when the page loads
+        window.addEventListener('DOMContentLoaded', () => {
+            new IsingVisualizer('isingCanvas');
+        });
+    </script>
+</body>
+</html>
