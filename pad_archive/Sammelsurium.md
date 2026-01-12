@@ -7,7 +7,13 @@ title: HackyHour Ideas Sammelsurium
 
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
+## 2026
+
 ## 2025
+- Try out [Cline](https://cline.bot/) with local models :vibration_mode: 
+- Check out [claraverse](https://claraverse.space/) :cl: 
+- Try out [GitHub Copilot CLI](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview) :small_airplane:
+- is [OpenDesk](https://www.opendesk.eu/de) a Microsoft alternative for the University?
 - Liberated AirPods [librepods](https://github.com/kavishdevar/librepods) :headphones: 
 - Build an agent-based workflow as a research assisstant
 - Manage issues across GitHub, GitLab and Forgejo with [git-bug](https://github.com/git-bug/git-bug) :ladybug: 
