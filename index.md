@@ -20,7 +20,7 @@ Online discussions for these topics are accessible via the following links.
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
 | 113 | 2026-03-25 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
-| 112 | 2026-02-25 | Bundesliga bettig game challenge for [dccw](https://dccw.de), based on data from [couchtipper](https://couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_112) |
+| 112 | 2026-02-25 | Bundesliga betting game challenge for [dccw](https://dccw.de), based on data from [couchtipper](https://couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_112) |
 | 111 | 2026-01-28 | Fix [bibiman](https://codeberg.org/lukeflo/bibiman) config, create PCA challenge for [dccw](https://dccw.de) | [pad](pad_archive/HackyHour_Wuerzburg_111) |
 | 110 | 2025-12-17 | Seasonal HackyHour 🎅 [claraverse](https://claraverse.space) and GitHub Copilot as agent | [pad](pad_archive/HackyHour_Wuerzburg_110) |
 | 109 | 2025-11-26 | Fix a python environment, [teamtype](https://github.com/teamtype/teamtype) and [live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | [pad](pad_archive/HackyHour_Wuerzburg_109) |
