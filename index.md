@@ -6,6 +6,8 @@ We strive to be an open and inclusive community, everyone is welcome! We have a 
 # Where
 The location is alternating between the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://hackmd.io/@iimog/hhpad)).
 
+#### In March 2026 we have the HackyHour in Seminar room 01.001/002, GSLS Building, Beatrice-Edgell-Weg 21
+
 # When
 On the fourth Wednesday of each month at 5pm
 
