@@ -8,6 +8,11 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2026
+- Work with your smart home hardware using open source software? (e.g. [Home Assistant](home-assistant.io)) :house: 
+- Try the [GitHub Copilot SDK](https://github.com/github/copilot-sdk) to include copilot in your own app :robot_face:
+- practical [DNSSEC](https://bind9.readthedocs.io/en/stable/dnssec-guide.html#): key roll, and [parent zone communication](https://bind9.readthedocs.io/en/stable/dnssec-guide.html#working-with-the-parent-zone-2) :lock:
+- Build an animation to visualize 100k cardiac MRIs with [manim](https://docs.manim.community/en/stable/examples.html) :abacus:
+- convert [dccw](https://dccw.de) pages to static
 
 ## 2025
 - Try out [Cline](https://cline.bot/) with local models :vibration_mode: 
