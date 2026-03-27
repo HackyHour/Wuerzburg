@@ -34,9 +34,7 @@ title: HackyHour Würzburg 113
 
 
 ### Fun
-- CAD: figure out bouldering volumes (Matthias)
-- 
-
+- CAD: figure out bouldering volumes (Matthias) 
 - Try some new and fancy programming language, e.g. [T](https://tstats-project.org/) or [NeoHaskell](https://neohaskell.org/) :tea::sheep:
 - Figuring out ZeroClaw/OpenClaw (maybe something for the hackyhour: https://github.com/zeroclaw-labs/zeroclaw / https://zeroclawlabs.ai/) - see also https://clawbio.github.io/ClawBio/  https://www.amd.com/en/resources/articles/run-openclaw-locally-on-amd-ryzen-ai-max-and-radeon-gpus.html
 
@@ -44,8 +42,7 @@ title: HackyHour Würzburg 113
 Useful for that: https://www.rz.uni-wuerzburg.de/dienste/rzserver/high-performance-computing/
 
 - try out [mistral-vibe](https://github.com/mistralai/mistral-vibe) or [claude-code](https://github.com/anthropics/claude-code) for information retrieval on research papers, together with something like [mistral ocr](https://mistral.ai/news/mistral-ocr)
-- https://www.cs.yale.edu/publications/techreports/tr966.pdf
-- 
+    - https://www.cs.yale.edu/publications/techreports/tr966.pdf
 
 ### Maybe another time
 - building a **multiplayer** Guess the Dice (or [other metric](https://metrics-reloaded.dkfz.de/)) game (inspired by [Guess the Correlation](https://www.guessthecorrelation.com/)) or [pentagame](https://github.com/penta-jan) using [supabase](https://supabase.com/) :lightning: 
