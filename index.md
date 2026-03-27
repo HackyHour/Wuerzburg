@@ -6,8 +6,6 @@ We strive to be an open and inclusive community, everyone is welcome! We have a 
 # Where
 The location is alternating between the [CCTB Würzburg](https://www.google.de/maps/place/Center+for+Computational+and+Theoretical+Biology+%28CCTB%29,+University+of+W%C3%BCrzburg/@49.7851224,9.9708763,17z/data=!3m1!4b1!4m2!3m1!1s0x47a28fc802e5e8d9:0x6b62d2cbd2e6f094) and the [Physics Department](https://wueaddress.uni-wuerzburg.de/search/map/3612) (see [the current pad](https://hackmd.io/@iimog/hhpad)).
 
-#### In March 2026 we have the HackyHour in Seminar room 01.001/002, GSLS Building, Beatrice-Edgell-Weg 21
-
 # When
 On the fourth Wednesday of each month at 5pm
 
@@ -21,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 113 | 2026-03-25 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 114 | 2026-04-22 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 113 | 2026-03-25 | [mistral-vibe](https://github.com/mistralai/mistral-vibe) for information retrieval on research papers | [pad](pad_archive/HackyHour_Wuerzburg_113) |
 | 112 | 2026-02-25 | Bundesliga betting game challenge for [dccw](https://dccw.de), based on data from [couchtipper](https://couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_112) |
 | 111 | 2026-01-28 | Fix [bibiman](https://codeberg.org/lukeflo/bibiman) config, create PCA challenge for [dccw](https://dccw.de) | [pad](pad_archive/HackyHour_Wuerzburg_111) |
 | 110 | 2025-12-17 | Seasonal HackyHour 🎅 [claraverse](https://claraverse.space) and GitHub Copilot as agent | [pad](pad_archive/HackyHour_Wuerzburg_110) |
