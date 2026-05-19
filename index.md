@@ -21,7 +21,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 115 | 2026-05-18 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 116 | 2026-06-15 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 115 | 2026-05-18 | Convert old [dccw](https://2021.dccw.de) page to static site with [opencode](https://opencode.ai) | [pad](pad_archive/HackyHour_Wuerzburg_115) |
 | 114 | 2026-04-22 | Tiny research agent [laconic](https://github.com/smhanov/laconic) with local ollama models | [pad](pad_archive/HackyHour_Wuerzburg_114) |
 | 113 | 2026-03-25 | [mistral-vibe](https://github.com/mistralai/mistral-vibe) for information retrieval on research papers | [pad](pad_archive/HackyHour_Wuerzburg_113) |
 | 112 | 2026-02-25 | Bundesliga betting game challenge for [dccw](https://dccw.de), based on data from [couchtipper](https://couchtipper.de/) | [pad](pad_archive/HackyHour_Wuerzburg_112) |
