@@ -8,6 +8,19 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2026
+- Reproduce [this LLM experiment](https://kucharski.substack.com/p/real-signals-or-artificial-stereotypes) - "Real signals or artificial stereotypes"
+- Fine-tuning with [unsloth](https://github.com/unslothai/notebooks/#-molab-notebooks) :sloth: 
+- [SemRepo](https://semrepo.org/) and [SemOpenAlex](https://semopenalex.org/resource/semopenalex:UniversalSearch)
+- Figuring out [ZeroClaw](https://zeroclawlabs.ai/)/[OpenClaw](https://openclaw.ai/) - see also [ClawBio](https://clawbio.github.io/ClawBio/), [local execution](https://www.amd.com/en/resources/articles/run-openclaw-locally-on-amd-ryzen-ai-max-and-radeon-gpus.html), [NemoClaw](https://docs.nvidia.com/nemoclaw/latest/index.html)
+- [LM Studio](https://lmstudio.ai/) vs [localai](https://localai.io/) vs [ollama](https://ollama.com/) :llama: 
+- AI agent harnesses ([opencode](https://opencode.ai/) vs [claw-code](https://github.com/ultraworkers/claw-code) vs [Oh My OpenAgent](https://ohmyopenagent.com/) vs [Claude Code](https://code.claude.com/docs) vs [Hermes](https://hermes-agent.nousresearch.com/) ... [Overview](https://terminaltrove.com/ai-coding-agents/) and [Comparison](https://terminaltrove.com/compare/ai-coding-agents/)) - also Skills, MCP, Claw, Routing ([OpenRouter](https://openrouter.ai/)), Memory ([OpenViking](https://openviking.ai/)) :horse_racing:
+- [Gemma 4](https://deepmind.google/models/gemma/gemma-4/) and [Google AI Studio](https://aistudio.google.com)
+- building a **multiplayer** Guess the Dice (or [other metric](https://metrics-reloaded.dkfz.de/)) game (inspired by [Guess the Correlation](https://www.guessthecorrelation.com/)) or [pentagame](https://github.com/penta-jan) using [supabase](https://supabase.com/) :lightning: 
+- Try some new and fancy programming language, e.g. [T](https://tstats-project.org/) or [NeoHaskell](https://neohaskell.org/) or [Hazel](https://hazel.org/) :tea::sheep::chestnut:
+- Try out the [Löve](https://love2d.org/) 2D game engine (in Lua)
+- Build something like [battleship-rs](https://github.com/orhun/battleship-rs), terminal multiplayer using [nc](https://salsa.debian.org/debian/netcat-openbsd)
+- SLURM from python: https://github.com/facebookincubator/submitit and https://github.com/WPoelman/planit, Useful for that: https://www.rz.uni-wuerzburg.de/dienste/rzserver/high-performance-computing/
+- Try to solve a problem from the [ICPC world finals](https://icpc.global/worldfinals/past-problems)
 - Work with your smart home hardware using open source software? (e.g. [Home Assistant](home-assistant.io)) :house: 
 - Try the [GitHub Copilot SDK](https://github.com/github/copilot-sdk) to include copilot in your own app :robot_face:
 - practical [DNSSEC](https://bind9.readthedocs.io/en/stable/dnssec-guide.html#): key roll, and [parent zone communication](https://bind9.readthedocs.io/en/stable/dnssec-guide.html#working-with-the-parent-zone-2) :lock:
