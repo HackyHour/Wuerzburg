@@ -21,7 +21,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 116 | 2026-06-15 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 117 | 2026-07-20 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 116 | 2026-06-15 | TTS with local models using [voicebox](https://voicebox.sh/), binary inspection with [binsider](https://binsider.dev/) | [pad](pad_archive/HackyHour_Wuerzburg_116) |
 | 115 | 2026-05-18 | Convert old [dccw](https://2021.dccw.de) page to static site with [opencode](https://opencode.ai) | [pad](pad_archive/HackyHour_Wuerzburg_115) |
 | 114 | 2026-04-22 | Tiny research agent [laconic](https://github.com/smhanov/laconic) with local ollama models | [pad](pad_archive/HackyHour_Wuerzburg_114) |
 | 113 | 2026-03-25 | [mistral-vibe](https://github.com/mistralai/mistral-vibe) for information retrieval on research papers | [pad](pad_archive/HackyHour_Wuerzburg_113) |
