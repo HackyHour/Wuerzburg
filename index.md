@@ -12,8 +12,6 @@ On the **third** **Monday** of each month at 5pm
 You can come without registration but feel free to join the discussion in the [pad](https://hackmd.io/@iimog/hhpad) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
 
-### Attention! In May 2026 the day changed from the fourth Wednesday to the third Monday of each month.
-
 # Topics 
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -21,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 117 | 2026-07-20 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 118 | 2026-08-17 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 117 | 2026-07-20 | Agent sandboxing with [Clawk](https://github.com/clawkwork/clawk) | [pad](pad_archive/HackyHour_Wuerzburg_117) |
 | 116 | 2026-06-15 | TTS with local models using [voicebox](https://voicebox.sh/), binary inspection with [binsider](https://binsider.dev/) | [pad](pad_archive/HackyHour_Wuerzburg_116) |
 | 115 | 2026-05-18 | Convert old [dccw](https://2021.dccw.de) page to static site with [opencode](https://opencode.ai) | [pad](pad_archive/HackyHour_Wuerzburg_115) |
 | 114 | 2026-04-22 | Tiny research agent [laconic](https://github.com/smhanov/laconic) with local ollama models | [pad](pad_archive/HackyHour_Wuerzburg_114) |
