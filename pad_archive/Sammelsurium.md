@@ -8,6 +8,13 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2026
+- [herdr](https://herdr.dev/docs/) tmux for agents :sheep:
+- [prompt injection and role confusion](https://role-confusion.github.io/)
+- [T](https://tstats-project.org/) :t-rex:
+- [git-pages](https://git-pages.org) :pager: (and possibly Forgejo actions) for a self-hosted github-pages alternative (or Codeberg :mountain:) &rarr; migrate HackyHour org to Codeberg?
+- [Leibniz](https://leibniz.khinsen.net/) - a Digital Scientific Notation
+- [nixops4](https://nixops.dev/) :snowflake:
+- [Guix](https://guix.gnu.org/de/) (vs. nix(os)) :snowflake: 
 - Reproduce [this LLM experiment](https://kucharski.substack.com/p/real-signals-or-artificial-stereotypes) - "Real signals or artificial stereotypes"
 - Fine-tuning with [unsloth](https://github.com/unslothai/notebooks/#-molab-notebooks) :sloth: 
 - [SemRepo](https://semrepo.org/) and [SemOpenAlex](https://semopenalex.org/resource/semopenalex:UniversalSearch)
