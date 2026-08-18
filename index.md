@@ -19,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 118 | 2026-08-17 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 119 | 2026-09-21 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 118 | 2026-08-17 | [woxi](https://github.com/ad-si/Woxi) compared to Mathematica and [mathics](https://mathics.org/) | [pad](pad_archive/HackyHour_Wuerzburg_118) |
 | 117 | 2026-07-20 | Agent sandboxing with [Clawk](https://github.com/clawkwork/clawk) | [pad](pad_archive/HackyHour_Wuerzburg_117) |
 | 116 | 2026-06-15 | TTS with local models using [voicebox](https://voicebox.sh/), binary inspection with [binsider](https://binsider.dev/) | [pad](pad_archive/HackyHour_Wuerzburg_116) |
 | 115 | 2026-05-18 | Convert old [dccw](https://2021.dccw.de) page to static site with [opencode](https://opencode.ai) | [pad](pad_archive/HackyHour_Wuerzburg_115) |
