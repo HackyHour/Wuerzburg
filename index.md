@@ -19,7 +19,8 @@ Online discussions for these topics are accessible via the following links.
 
 | i  | Date       | Summary      | Discussion |
 | --:| ---------- |--------------| ----------:|
-| 120 | 2026-10-19 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 121 | 2026-11-16 | Join the discussion → | [pad](https://hackmd.io/@iimog/hhpad) |
+| 120 | 2026-10-19 | [Paper2Agent](https://www.nature.com/articles/s41586-026-11044-y) | [pad](pad_archive/HackyHour_Wuerzburg_120) |
 | 119 | 2026-09-21 | [OSM indoor maps](https://wiki.openstreetmap.org/wiki/Indoor_Mapping), segmentation game, debug esp32 SCD41 I2C connection | [pad](pad_archive/HackyHour_Wuerzburg_119) |
 | 118 | 2026-08-17 | [woxi](https://github.com/ad-si/Woxi) compared to Mathematica and [mathics](https://mathics.org/) | [pad](pad_archive/HackyHour_Wuerzburg_118) |
 | 117 | 2026-07-20 | Agent sandboxing with [Clawk](https://github.com/clawkwork/clawk) | [pad](pad_archive/HackyHour_Wuerzburg_117) |
