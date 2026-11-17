@@ -8,6 +8,7 @@ title: HackyHour Ideas Sammelsurium
 [![hackmd-github-sync-badge](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw/badge)](https://hackmd.io/aENsM1lFSvmuc4yeTYkIiw)
 
 ## 2026
+- Can we [chat with DNA](https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/)?
 - [herdr](https://herdr.dev/docs/) tmux for agents :sheep:
 - [prompt injection and role confusion](https://role-confusion.github.io/)
 - [T](https://tstats-project.org/) :t-rex:
